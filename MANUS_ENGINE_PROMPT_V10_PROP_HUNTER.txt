@@ -1,0 +1,12 @@
+"Manus, actúa como Ingeniero de Datos y Especialista en Visualización GIS. Necesito generar la versión definitiva del mapa interactivo avanzado: 'Zaragoza_Advanced_Map_V10.html'.
+Instrucciones críticas de procesamiento:
+LIMPIEZA DE DATOS: Utiliza el archivo adjunto y asegúrate de que los activos con ID 144, 299 y 367 han sido eliminados por completo. No deben aparecer en el mapa ni en las tablas de datos.
+INCORPORACIÓN DE TORRERO: El archivo ya incluye 4 nuevos activos en el CP 50007 (Torrero) (IDs 500 al 503). Asegúrate de que el mapa renderice correctamente estos nuevos marcadores en su zona geográfica correspondiente.
+PRECISIÓN DE GEOLOCALIZACIÓN: El sistema de mapeo debe leer la columna 'DIRECCIÓN' (que ya incluye el sufijo ', Zaragoza, España') para posicionar cada punto. No permitas que ninguna fila quede sin mostrarse en el mapa.
+REPLICACIÓN DE DISEÑO AVANZADO: > - Estilo Visual: Mantén el mapa base elegante y profesional que usamos en la versión anterior.
+Gradiente de Color: Los marcadores deben estar coloreados automáticamente en función del valor de la columna 'BENCHMARK (€/m²)' (de menor a mayor valor).
+Pop-ups Interactivos: Al hacer clic en cualquier punto, debe desplegarse una ventana con la siguiente información formateada: ID_OFICIAL, DIRECCIÓN, m² TOTALES, PLANTAS y GDV VENTA (€).
+Filtros Activos: Incluye un panel de control en el mapa para filtrar por CP (Código Postal) y un buscador por Dirección.
+ENTREGABLES FINALES: > - Genera y facilítame el enlace de descarga del archivo HTML interactivo.
+Confirma que el Excel (.xlsx) resultante coincide exactamente con los datos visualizados.
+Procede con la generación del archivo V10 ahora mismo para tenerlo listo para la reunión con los socios."
