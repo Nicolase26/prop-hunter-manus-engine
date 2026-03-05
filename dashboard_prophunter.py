@@ -3,8 +3,6 @@ import pandas as pd
 import plotly.express as px
 
 st.set_page_config(page_title="Prop Hunter - Dashboard", layout="wide")
-
-@st.cache_data
 def load_data():
     # Leemos el Excel primero de forma normal
     df = pd.read_excel("datos.xlsx")
@@ -61,3 +59,4 @@ try:
 
 except Exception as e:
     st.error(f"Error crítico evitado. Detalles técnicos: {e}")   
+
