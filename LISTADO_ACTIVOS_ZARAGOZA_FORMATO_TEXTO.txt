@@ -1,0 +1,3883 @@
+LISTADO DE ACTIVOS INMOBILIARIOS - ZARAGOZA
+Este documento contiene la informacion de los 388 activos para auditoria.
+
+ID: 1
+Direccion: CL MAYANDIA, 3
+Referencia Catastral: 5534901XM7153D
+Superficie Total: 21928 m2
+Plantas: 3
+Año: 1945
+Perfil: Optimización / BTR
+Benchmark: 2894 euros/m2
+GDV Estimado: 50766548 euros
+------------------------------
+ID: 2
+Direccion: PS INDEPENDENCIA, 12
+Referencia Catastral: 6334604XM7163C
+Superficie Total: 21917 m2
+Plantas: 6
+Año: 1952
+Perfil: Optimización / BTR
+Benchmark: 2894 euros/m2
+GDV Estimado: 50740502 euros
+------------------------------
+ID: 3
+Direccion: CL RAFOLS, 2
+Referencia Catastral: 6035302XM7163E
+Superficie Total: 18214 m2
+Plantas: 11
+Año: 1975
+Perfil: Optimización / BTR
+Benchmark: 2894 euros/m2
+GDV Estimado: 42168474 euros
+------------------------------
+ID: 4
+Direccion: AV CESAR AUGUSTO, 30
+Referencia Catastral: 6234901XM7163E
+Superficie Total: 16338 m2
+Plantas: 12
+Año: 1989
+Perfil: Patrimonial / Core
+Benchmark: 2894 euros/m2
+GDV Estimado: 37824580 euros
+------------------------------
+ID: 5
+Direccion: PZ SALAMERO, MIGUEL, 1
+Referencia Catastral: 6335201XM7163E
+Superficie Total: 13214 m2
+Plantas: 2
+Año: 1971
+Perfil: Optimización / BTR
+Benchmark: 2894 euros/m2
+GDV Estimado: 30592474 euros
+------------------------------
+ID: 6
+Direccion: AV CESAR AUGUSTO, 8
+Referencia Catastral: 6133807XM7163C
+Superficie Total: 12526 m2
+Plantas: 14
+Año: 1974
+Perfil: Optimización / BTR
+Benchmark: 2894 euros/m2
+GDV Estimado: 28997880 euros
+------------------------------
+ID: 7
+Direccion: CL SAN VICENTE PAUL, 31
+Referencia Catastral: 6938604XM7173E
+Superficie Total: 8527 m2
+Plantas: 4
+Año: 1900
+Perfil: Rehabilitación Histórica
+Benchmark: 3036 euros/m2
+GDV Estimado: 20708556 euros
+------------------------------
+ID: 8
+Direccion: CL TEOBALDO, 3
+Referencia Catastral: 7237409XM7173E
+Superficie Total: 8008 m2
+Plantas: 3
+Año: 1300
+Perfil: Rehabilitación Histórica
+Benchmark: 3036 euros/m2
+GDV Estimado: 19448616 euros
+------------------------------
+ID: 9
+Direccion: CL COSO, 25
+Referencia Catastral: 6536817XM7163F
+Superficie Total: 9710 m2
+Plantas: 10
+Año: 1962
+Perfil: Optimización / BTR
+Benchmark: 2312 euros/m2
+GDV Estimado: 17959616 euros
+------------------------------
+ID: 10
+Direccion: CL AZORIN, 2
+Referencia Catastral: 8134905XM7183C
+Superficie Total: 8856 m2
+Plantas: 2
+Año: 2010
+Perfil: Patrimonial / Core
+Benchmark: 2449 euros/m2
+GDV Estimado: 17348716 euros
+------------------------------
+ID: 11
+Direccion: PZ SEO, LA, 5
+Referencia Catastral: 7038402XM7173G
+Superficie Total: 7015 m2
+Plantas: 2
+Año: 1560
+Perfil: Rehabilitación Histórica
+Benchmark: 3036 euros/m2
+GDV Estimado: 17038032 euros
+------------------------------
+ID: 12
+Direccion: PS INDEPENDENCIA, 29
+Referencia Catastral: 6432201XM7163C
+Superficie Total: 6138 m2
+Plantas: 9
+Año: 1930
+Perfil: Rehabilitación Histórica
+Benchmark: 3036 euros/m2
+GDV Estimado: 14906760 euros
+------------------------------
+ID: 13
+Direccion: CL SAN VICENTE PAUL, 26
+Referencia Catastral: 7036801XM7173E
+Superficie Total: 6058 m2
+Plantas: 5
+Año: 1986
+Perfil: Patrimonial / Core
+Benchmark: 3036 euros/m2
+GDV Estimado: 14712456 euros
+------------------------------
+ID: 14
+Direccion: PZ ESPAÑA, 8
+Referencia Catastral: 6534601XM7163D
+Superficie Total: 5932 m2
+Plantas: 5
+Año: 1936
+Perfil: Rehabilitación Histórica
+Benchmark: 3036 euros/m2
+GDV Estimado: 14405820 euros
+------------------------------
+ID: 15
+Direccion: CL COSO, 5
+Referencia Catastral: 6437106XM7163E
+Superficie Total: 7605 m2
+Plantas: 7
+Año: 1936
+Perfil: Rehabilitación Histórica
+Benchmark: 2312 euros/m2
+GDV Estimado: 14066208 euros
+------------------------------
+ID: 16
+Direccion: CL COSTA, JOAQUIN, 8
+Referencia Catastral: 6531801XM7163B
+Superficie Total: 5140 m2
+Plantas: 8
+Año: 1930
+Perfil: Rehabilitación Histórica
+Benchmark: 3036 euros/m2
+GDV Estimado: 12484032 euros
+------------------------------
+ID: 17
+Direccion: PZ PILAR NTRA. SRA., 13
+Referencia Catastral: 6838401XM7163H
+Superficie Total: 6368 m2
+Plantas: 5
+Año: 1940
+Perfil: Optimización / BTR
+Benchmark: 2312 euros/m2
+GDV Estimado: 11777328 euros
+------------------------------
+ID: 18
+Direccion: CL BLANCAS, JERONIMO, 2
+Referencia Catastral: 6634903XM7163D
+Superficie Total: 4757 m2
+Plantas: 10
+Año: 1951
+Perfil: Optimización / BTR
+Benchmark: 3036 euros/m2
+GDV Estimado: 11551980 euros
+------------------------------
+ID: 19
+Direccion: CL SANCLEMENTE, FELIPE, 26
+Referencia Catastral: 6531506XM7163B
+Superficie Total: 4732 m2
+Plantas: 4
+Año: 1936
+Perfil: Rehabilitación Histórica
+Benchmark: 3036 euros/m2
+GDV Estimado: 11491260 euros
+------------------------------
+ID: 20
+Direccion: PS INDEPENDENCIA, 33
+Referencia Catastral: 6331401XM7163A
+Superficie Total: 4690 m2
+Plantas: 5
+Año: 1935
+Perfil: Rehabilitación Histórica
+Benchmark: 3036 euros/m2
+GDV Estimado: 11391072 euros
+------------------------------
+ID: 21
+Direccion: CL JARDIEL, FLORENCIO, 3
+Referencia Catastral: 6641102XM7164B
+Superficie Total: 6041 m2
+Plantas: 8
+Año: 1969
+Perfil: Optimización / BTR
+Benchmark: 2312 euros/m2
+GDV Estimado: 11171584 euros
+------------------------------
+ID: 22
+Direccion: CL URBANO, LUIS, 1T
+Referencia Catastral: 8632901XM7183C
+Superficie Total: 5628 m2
+Plantas: 1
+Año: 1992
+Perfil: Patrimonial / Core
+Benchmark: 2449 euros/m2
+GDV Estimado: 11025398 euros
+------------------------------
+ID: 23
+Direccion: AV GOYA, FRANCISCO DE, 7
+Referencia Catastral: 6023501XM7162C
+Superficie Total: 3853 m2
+Plantas: 2
+Año: 1950
+Perfil: Optimización / BTR
+Benchmark: 3156 euros/m2
+GDV Estimado: 9726792 euros
+------------------------------
+ID: 24
+Direccion: CL CUBEL, 4
+Referencia Catastral: 7923502XM7172D
+Superficie Total: 4507 m2
+Plantas: 6
+Año: 2022
+Perfil: Patrimonial / Core
+Benchmark: 2449 euros/m2
+GDV Estimado: 8828645 euros
+------------------------------
+ID: 25
+Direccion: PS CONSTITUCION, 21
+Referencia Catastral: 6531812XM7163B
+Superficie Total: 3547 m2
+Plantas: 7
+Año: 1936
+Perfil: Rehabilitación Histórica
+Benchmark: 3036 euros/m2
+GDV Estimado: 8613132 euros
+------------------------------
+ID: 26
+Direccion: PS SAGASTA, 7
+Referencia Catastral: 6225521XM7162E
+Superficie Total: 4631 m2
+Plantas: 4
+Año: 1931
+Perfil: Rehabilitación Histórica
+Benchmark: 2263 euros/m2
+GDV Estimado: 8382152 euros
+------------------------------
+ID: 27
+Direccion: CL SANTA JOAQUINA DE VEDRUNA, 2
+Referencia Catastral: 6428301XM7162G
+Superficie Total: 4349 m2
+Plantas: 10
+Año: 1950
+Perfil: Optimización / BTR
+Benchmark: 2263 euros/m2
+GDV Estimado: 7872977 euros
+------------------------------
+ID: 28
+Direccion: CL DORMER, DIEGO, 21
+Referencia Catastral: 6938105XM7163H
+Superficie Total: 3215 m2
+Plantas: 3
+Año: 1700
+Perfil: Rehabilitación Histórica
+Benchmark: 3036 euros/m2
+GDV Estimado: 7808592 euros
+------------------------------
+ID: 29
+Direccion: PZ PILAR NTRA. SRA., 16
+Referencia Catastral: 6838404XM7163H
+Superficie Total: 4202 m2
+Plantas: 7
+Año: 1951
+Perfil: Optimización / BTR
+Benchmark: 2312 euros/m2
+GDV Estimado: 7770632 euros
+------------------------------
+ID: 30
+Direccion: PS CONSTITUCION, 33
+Referencia Catastral: 6630909XM7163B
+Superficie Total: 3152 m2
+Plantas: 7
+Año: 1939
+Perfil: Rehabilitación Histórica
+Benchmark: 3036 euros/m2
+GDV Estimado: 7653756 euros
+------------------------------
+ID: 31
+Direccion: CL JAIME I, 9
+Referencia Catastral: 6635405XM7163F
+Superficie Total: 4096 m2
+Plantas: 6
+Año: 1900
+Perfil: Rehabilitación Histórica
+Benchmark: 2312 euros/m2
+GDV Estimado: 7574112 euros
+------------------------------
+ID: 32
+Direccion: PS FERNANDO EL CATOLICO, 12
+Referencia Catastral: 5626107XM7152F
+Superficie Total: 3537 m2
+Plantas: 9
+Año: 1950
+Perfil: Optimización / BTR
+Benchmark: 2565 euros/m2
+GDV Estimado: 7256385 euros
+------------------------------
+ID: 33
+Direccion: CL GRACIAN, BALTASAR, 11
+Referencia Catastral: 5626108XM7152F
+Superficie Total: 3534 m2
+Plantas: 9
+Año: 1950
+Perfil: Optimización / BTR
+Benchmark: 2565 euros/m2
+GDV Estimado: 7251255 euros
+------------------------------
+ID: 34
+Direccion: CL SAN JORGE, 10
+Referencia Catastral: 6735608XM7163F
+Superficie Total: 2970 m2
+Plantas: 8
+Año: 1913
+Perfil: Rehabilitación Histórica
+Benchmark: 3036 euros/m2
+GDV Estimado: 7213536 euros
+------------------------------
+ID: 35
+Direccion: PS FERNANDO EL CATOLICO, 2
+Referencia Catastral: 5626102XM7152F
+Superficie Total: 3497 m2
+Plantas: 9
+Año: 1942
+Perfil: Optimización / BTR
+Benchmark: 2565 euros/m2
+GDV Estimado: 7174305 euros
+------------------------------
+ID: 36
+Direccion: CL SAN ANDRES, 12
+Referencia Catastral: 6735606XM7163F
+Superficie Total: 2888 m2
+Plantas: 8
+Año: 1913
+Perfil: Rehabilitación Histórica
+Benchmark: 3036 euros/m2
+GDV Estimado: 7013160 euros
+------------------------------
+ID: 37
+Direccion: CL JAIME I, 14
+Referencia Catastral: 6736804XM7163F
+Superficie Total: 2849 m2
+Plantas: 7
+Año: 1900
+Perfil: Rehabilitación Histórica
+Benchmark: 3036 euros/m2
+GDV Estimado: 6919044 euros
+------------------------------
+ID: 38
+Direccion: PZ PILAR NTRA. SRA., 20
+Referencia Catastral: 6641103XM7164B
+Superficie Total: 3707 m2
+Plantas: 7
+Año: 1936
+Perfil: Rehabilitación Histórica
+Benchmark: 2312 euros/m2
+GDV Estimado: 6855080 euros
+------------------------------
+ID: 39
+Direccion: CL MONCASI, JOSE, 11
+Referencia Catastral: 6022502XM7162C
+Superficie Total: 2702 m2
+Plantas: 5
+Año: 1940
+Perfil: Optimización / BTR
+Benchmark: 3156 euros/m2
+GDV Estimado: 6820116 euros
+------------------------------
+ID: 40
+Direccion: CL BONET, JUAN PABLO, 24
+Referencia Catastral: 5923210XM7152D
+Superficie Total: 2625 m2
+Plantas: 10
+Año: 1948
+Perfil: Optimización / BTR
+Benchmark: 3156 euros/m2
+GDV Estimado: 6627600 euros
+------------------------------
+ID: 41
+Direccion: CL GRACIAN, BALTASAR, 1
+Referencia Catastral: 5626101XM7152F
+Superficie Total: 3207 m2
+Plantas: 8
+Año: 1942
+Perfil: Optimización / BTR
+Benchmark: 2565 euros/m2
+GDV Estimado: 6579225 euros
+------------------------------
+ID: 42
+Direccion: CL CASA JIMENEZ, 4
+Referencia Catastral: 6333209XM7163C
+Superficie Total: 2746 m2
+Plantas: 6
+Año: 1895
+Perfil: Rehabilitación Histórica
+Benchmark: 2894 euros/m2
+GDV Estimado: 6355224 euros
+------------------------------
+ID: 43
+Direccion: CL PALAFOX, JOSE, 1
+Referencia Catastral: 7037501XM7173G
+Superficie Total: 2585 m2
+Plantas: 5
+Año: 1800
+Perfil: Rehabilitación Histórica
+Benchmark: 3036 euros/m2
+GDV Estimado: 6278448 euros
+------------------------------
+ID: 44
+Direccion: PS SAGASTA, 21
+Referencia Catastral: 6224101XM7162C
+Superficie Total: 3462 m2
+Plantas: 7
+Año: 1936
+Perfil: Rehabilitación Histórica
+Benchmark: 2263 euros/m2
+GDV Estimado: 6266247 euros
+------------------------------
+ID: 45
+Direccion: PS GRAN VIA, 52
+Referencia Catastral: 5626503XM7152F
+Superficie Total: 3016 m2
+Plantas: 8
+Año: 1950
+Perfil: Optimización / BTR
+Benchmark: 2565 euros/m2
+GDV Estimado: 6186780 euros
+------------------------------
+ID: 46
+Direccion: CL ARANDA, 42
+Referencia Catastral: 6038626XM7163G
+Superficie Total: 3166 m2
+Plantas: 9
+Año: 1946
+Perfil: Optimización / BTR
+Benchmark: 2312 euros/m2
+GDV Estimado: 5853984 euros
+------------------------------
+ID: 47
+Direccion: CL SANTA CATALINA, 6
+Referencia Catastral: 6734103XM7163D
+Superficie Total: 2390 m2
+Plantas: 5
+Año: 1960
+Perfil: Optimización / BTR
+Benchmark: 3036 euros/m2
+GDV Estimado: 5804832 euros
+------------------------------
+ID: 48
+Direccion: CL TEMPLE, 18
+Referencia Catastral: 6538312XM7163G
+Superficie Total: 3123 m2
+Plantas: 5
+Año: 1862
+Perfil: Rehabilitación Histórica
+Benchmark: 2312 euros/m2
+GDV Estimado: 5775376 euros
+------------------------------
+ID: 49
+Direccion: CL PIGNATELLI, RAMON, 26
+Referencia Catastral: 6137608XM7163E
+Superficie Total: 2476 m2
+Plantas: 5
+Año: 1962
+Perfil: Optimización / BTR
+Benchmark: 2894 euros/m2
+GDV Estimado: 5730120 euros
+------------------------------
+ID: 50
+Direccion: CL LAGUNA DE RINS, AMADO, 5
+Referencia Catastral: 5828901XM7152H
+Superficie Total: 2745 m2
+Plantas: 8
+Año: 1956
+Perfil: Optimización / BTR
+Benchmark: 2565 euros/m2
+GDV Estimado: 5632740 euros
+------------------------------
+ID: 51
+Direccion: CL CONCEPCION, 8
+Referencia Catastral: 7029801XM7172G
+Superficie Total: 3110 m2
+Plantas: 2
+Año: 1930
+Perfil: Rehabilitación Histórica
+Benchmark: 2263 euros/m2
+GDV Estimado: 5630344 euros
+------------------------------
+ID: 52
+Direccion: CL LAGASCA, MARIANO, 2
+Referencia Catastral: 6128110XM7162E
+Superficie Total: 2130 m2
+Plantas: 1
+Año: 1931
+Perfil: Rehabilitación Histórica
+Benchmark: 3156 euros/m2
+GDV Estimado: 5377824 euros
+------------------------------
+ID: 53
+Direccion: PZ ESPAÑA, 4
+Referencia Catastral: 6534612XM7163D
+Superficie Total: 2187 m2
+Plantas: 9
+Año: 1936
+Perfil: Rehabilitación Histórica
+Benchmark: 3036 euros/m2
+GDV Estimado: 5309964 euros
+------------------------------
+ID: 54
+Direccion: CL ARANDA, 5
+Referencia Catastral: 6237801XM7163E
+Superficie Total: 2267 m2
+Plantas: 9
+Año: 1930
+Perfil: Rehabilitación Histórica
+Benchmark: 2894 euros/m2
+GDV Estimado: 5246822 euros
+------------------------------
+ID: 55
+Direccion: PS ROSALES, DE LOS, 24D
+Referencia Catastral: 6922509XM7162B
+Superficie Total: 2892 m2
+Plantas: 4
+Año: 1992
+Perfil: Patrimonial / Core
+Benchmark: 2263 euros/m2
+GDV Estimado: 5234319 euros
+------------------------------
+ID: 56
+Direccion: PZ PILAR NTRA. SRA., 11
+Referencia Catastral: 6739203XM7163H
+Superficie Total: 2825 m2
+Plantas: 5
+Año: 1910
+Perfil: Rehabilitación Histórica
+Benchmark: 2312 euros/m2
+GDV Estimado: 5225120 euros
+------------------------------
+ID: 57
+Direccion: CL TRABAJO, DEL, 4D
+Referencia Catastral: 7226107XM7172E
+Superficie Total: 2870 m2
+Plantas: 5
+Año: 1963
+Perfil: Optimización / BTR
+Benchmark: 2263 euros/m2
+GDV Estimado: 5195848 euros
+------------------------------
+ID: 58
+Direccion: PS AGUSTIN, MARIA, 61
+Referencia Catastral: 5437210XM7153G
+Superficie Total: 2225 m2
+Plantas: 7
+Año: 2019
+Perfil: Patrimonial / Core
+Benchmark: 2894 euros/m2
+GDV Estimado: 5151320 euros
+------------------------------
+ID: 59
+Direccion: CL TORRES MORALES,GENOVEVA M, 8
+Referencia Catastral: 5923212XM7152D
+Superficie Total: 1983 m2
+Plantas: 8
+Año: 1945
+Perfil: Optimización / BTR
+Benchmark: 3156 euros/m2
+GDV Estimado: 5005416 euros
+------------------------------
+ID: 60
+Direccion: PS CUELLAR, 22
+Referencia Catastral: 6115604XM7161E
+Superficie Total: 1934 m2
+Plantas: 1
+Año: 1930
+Perfil: Rehabilitación Histórica
+Benchmark: 3156 euros/m2
+GDV Estimado: 4882332 euros
+------------------------------
+ID: 61
+Direccion: PS SAGASTA, 11
+Referencia Catastral: 6225519XM7162E
+Superficie Total: 2693 m2
+Plantas: 4
+Año: 1903
+Perfil: Rehabilitación Histórica
+Benchmark: 2263 euros/m2
+GDV Estimado: 4874502 euros
+------------------------------
+ID: 62
+Direccion: CL SUPERVIA, MARIANO, 33
+Referencia Catastral: 5519210XM7151G
+Superficie Total: 1922 m2
+Plantas: 3
+Año: 1958
+Perfil: Optimización / BTR
+Benchmark: 3156 euros/m2
+GDV Estimado: 4850772 euros
+------------------------------
+ID: 63
+Direccion: CL SAN JORGE, 19
+Referencia Catastral: 7035106XM7163F
+Superficie Total: 1969 m2
+Plantas: 10
+Año: 1900
+Perfil: Rehabilitación Histórica
+Benchmark: 3036 euros/m2
+GDV Estimado: 4781700 euros
+------------------------------
+ID: 64
+Direccion: PS AGUSTIN, MARIA, 59
+Referencia Catastral: 5437219XM7153G
+Superficie Total: 2054 m2
+Plantas: 1
+Año: 1880
+Perfil: Rehabilitación Histórica
+Benchmark: 2894 euros/m2
+GDV Estimado: 4754842 euros
+------------------------------
+ID: 65
+Direccion: CL COSO, 90
+Referencia Catastral: 6733516XM7163D
+Superficie Total: 1943 m2
+Plantas: 4
+Año: 1784
+Perfil: Rehabilitación Histórica
+Benchmark: 3036 euros/m2
+GDV Estimado: 4717944 euros
+------------------------------
+ID: 66
+Direccion: PS SAGASTA, 17
+Referencia Catastral: 6224311XM7162C
+Superficie Total: 2579 m2
+Plantas: 6
+Año: 1900
+Perfil: Rehabilitación Histórica
+Benchmark: 2263 euros/m2
+GDV Estimado: 4668569 euros
+------------------------------
+ID: 67
+Direccion: CL MONCASI, JOSE, 10
+Referencia Catastral: 6023511XM7162C
+Superficie Total: 1808 m2
+Plantas: 5
+Año: 1941
+Perfil: Optimización / BTR
+Benchmark: 3156 euros/m2
+GDV Estimado: 4563576 euros
+------------------------------
+ID: 68
+Direccion: CL SANTA ISABEL, 10
+Referencia Catastral: 6538301XM7163H
+Superficie Total: 2463 m2
+Plantas: 5
+Año: 1936
+Perfil: Rehabilitación Histórica
+Benchmark: 2312 euros/m2
+GDV Estimado: 4554640 euros
+------------------------------
+ID: 69
+Direccion: CL ALFONSO I, 14
+Referencia Catastral: 6537101XM7163F
+Superficie Total: 2404 m2
+Plantas: 8
+Año: 1870
+Perfil: Rehabilitación Histórica
+Benchmark: 2312 euros/m2
+GDV Estimado: 4445976 euros
+------------------------------
+ID: 70
+Direccion: CL CERRADA, 40
+Referencia Catastral: 5728812XM7152H
+Superficie Total: 2157 m2
+Plantas: 7
+Año: 1928
+Perfil: Rehabilitación Histórica
+Benchmark: 2565 euros/m2
+GDV Estimado: 4424625 euros
+------------------------------
+ID: 71
+Direccion: CL GRACIAN, BALTASAR, 3
+Referencia Catastral: 5626112XM7152F
+Superficie Total: 2128 m2
+Plantas: 6
+Año: 1942
+Perfil: Optimización / BTR
+Benchmark: 2565 euros/m2
+GDV Estimado: 4365630 euros
+------------------------------
+ID: 72
+Direccion: CL GIL DE JASA, ANTONIO, 10
+Referencia Catastral: 6026507XM7162E
+Superficie Total: 1721 m2
+Plantas: 4
+Año: 1931
+Perfil: Rehabilitación Histórica
+Benchmark: 3156 euros/m2
+GDV Estimado: 4342656 euros
+------------------------------
+ID: 73
+Direccion: CL LAGASCA, MARIANO, 4
+Referencia Catastral: 6128111XM7162E
+Superficie Total: 1721 m2
+Plantas: 4
+Año: 1936
+Perfil: Rehabilitación Histórica
+Benchmark: 3156 euros/m2
+GDV Estimado: 4342656 euros
+------------------------------
+ID: 74
+Direccion: CL ALLUE SALVADOR, MIGUEL, 4
+Referencia Catastral: 6832906XM7163B
+Superficie Total: 1751 m2
+Plantas: 7
+Año: 1948
+Perfil: Optimización / BTR
+Benchmark: 3036 euros/m2
+GDV Estimado: 4250400 euros
+------------------------------
+ID: 75
+Direccion: CL MONEVA, JUAN, 3
+Referencia Catastral: 6532308XM7163D
+Superficie Total: 1720 m2
+Plantas: 5
+Año: 1819
+Perfil: Rehabilitación Histórica
+Benchmark: 3036 euros/m2
+GDV Estimado: 4177536 euros
+------------------------------
+ID: 76
+Direccion: CL PIGNATELLI, RAMON, 11
+Referencia Catastral: 6136502XM7163E
+Superficie Total: 1788 m2
+Plantas: 6
+Año: 1920
+Perfil: Rehabilitación Histórica
+Benchmark: 2894 euros/m2
+GDV Estimado: 4138420 euros
+------------------------------
+ID: 77
+Direccion: CL HUERVA, RIO, 8
+Referencia Catastral: 5720512XM7152B
+Superficie Total: 1630 m2
+Plantas: 4
+Año: 2006
+Perfil: Patrimonial / Core
+Benchmark: 3156 euros/m2
+GDV Estimado: 4115424 euros
+------------------------------
+ID: 78
+Direccion: CL ALFONSO I, 39
+Referencia Catastral: 6639212XM7163H
+Superficie Total: 2226 m2
+Plantas: 5
+Año: 1922
+Perfil: Rehabilitación Histórica
+Benchmark: 2312 euros/m2
+GDV Estimado: 4115360 euros
+------------------------------
+ID: 79
+Direccion: CL SAN VICENTE PAUL, 29
+Referencia Catastral: 6936516XM7173E
+Superficie Total: 1687 m2
+Plantas: 7
+Año: 1940
+Perfil: Optimización / BTR
+Benchmark: 3036 euros/m2
+GDV Estimado: 4095564 euros
+------------------------------
+ID: 80
+Direccion: CL ARAGON, 48
+Referencia Catastral: 5426911XM7152F
+Superficie Total: 1984 m2
+Plantas: 5
+Año: 1936
+Perfil: Rehabilitación Histórica
+Benchmark: 2565 euros/m2
+GDV Estimado: 4070655 euros
+------------------------------
+ID: 81
+Direccion: CL ARAGON, 61
+Referencia Catastral: 5425706XM7152C
+Superficie Total: 1968 m2
+Plantas: 6
+Año: 1934
+Perfil: Rehabilitación Histórica
+Benchmark: 2565 euros/m2
+GDV Estimado: 4037310 euros
+------------------------------
+ID: 82
+Direccion: CL RIC, PEDRO MARIA, 29
+Referencia Catastral: 6526812XM7162F
+Superficie Total: 2228 m2
+Plantas: 6
+Año: 1960
+Perfil: Optimización / BTR
+Benchmark: 2263 euros/m2
+GDV Estimado: 4032666 euros
+------------------------------
+ID: 83
+Direccion: CL SAN MIGUEL, 28
+Referencia Catastral: 6732403XM7163D
+Superficie Total: 1654 m2
+Plantas: 8
+Año: 1971
+Perfil: Optimización / BTR
+Benchmark: 3036 euros/m2
+GDV Estimado: 4016628 euros
+------------------------------
+ID: 84
+Direccion: CL HEROISMO, 35
+Referencia Catastral: 7132301XM7173C
+Superficie Total: 2049 m2
+Plantas: 5
+Año: 1963
+Perfil: Optimización / BTR
+Benchmark: 2449 euros/m2
+GDV Estimado: 4013911 euros
+------------------------------
+ID: 85
+Direccion: CL LATASSA, FELIX, 35
+Referencia Catastral: 5522912XM7152D
+Superficie Total: 1578 m2
+Plantas: 6
+Año: 1954
+Perfil: Optimización / BTR
+Benchmark: 3156 euros/m2
+GDV Estimado: 3982872 euros
+------------------------------
+ID: 86
+Direccion: AV CORTES, HERNAN, 9
+Referencia Catastral: 5931101XM7153B
+Superficie Total: 1703 m2
+Plantas: 5
+Año: 1936
+Perfil: Rehabilitación Histórica
+Benchmark: 2894 euros/m2
+GDV Estimado: 3941628 euros
+------------------------------
+ID: 87
+Direccion: CL MENDEZ NUÑEZ, CASTO, 12
+Referencia Catastral: 6637104XM7163F
+Superficie Total: 2130 m2
+Plantas: 7
+Año: 1936
+Perfil: Rehabilitación Histórica
+Benchmark: 2312 euros/m2
+GDV Estimado: 3939648 euros
+------------------------------
+ID: 88
+Direccion: PS SAGASTA, 74I
+Referencia Catastral: 6020603XM7162A
+Superficie Total: 1549 m2
+Plantas: 2
+Año: 1961
+Perfil: Optimización / BTR
+Benchmark: 3156 euros/m2
+GDV Estimado: 3910284 euros
+------------------------------
+ID: 89
+Direccion: CL ZUMALACARREGUI, TOMAS, 36
+Referencia Catastral: 5925320XM7152F
+Superficie Total: 1535 m2
+Plantas: 5
+Año: 1941
+Perfil: Optimización / BTR
+Benchmark: 3156 euros/m2
+GDV Estimado: 3875568 euros
+------------------------------
+ID: 90
+Direccion: CL SANTA JOAQUINA DE VEDRUNA, 36
+Referencia Catastral: 6526603XM7162F
+Superficie Total: 2137 m2
+Plantas: 6
+Año: 1948
+Perfil: Optimización / BTR
+Benchmark: 2263 euros/m2
+GDV Estimado: 3867467 euros
+------------------------------
+ID: 91
+Direccion: CL RIC, PEDRO MARIA, 31
+Referencia Catastral: 6526811XM7162F
+Superficie Total: 2129 m2
+Plantas: 5
+Año: 1960
+Perfil: Optimización / BTR
+Benchmark: 2263 euros/m2
+GDV Estimado: 3853889 euros
+------------------------------
+ID: 92
+Direccion: CL RIC, PEDRO MARIA, 33
+Referencia Catastral: 6526810XM7162F
+Superficie Total: 2123 m2
+Plantas: 7
+Año: 1959
+Perfil: Optimización / BTR
+Benchmark: 2263 euros/m2
+GDV Estimado: 3842574 euros
+------------------------------
+ID: 93
+Direccion: CL DEAN, 5
+Referencia Catastral: 6938602XM7173G
+Superficie Total: 1571 m2
+Plantas: 4
+Año: 1800
+Perfil: Rehabilitación Histórica
+Benchmark: 3036 euros/m2
+GDV Estimado: 3813216 euros
+------------------------------
+ID: 94
+Direccion: CL ALFONSO I, 41
+Referencia Catastral: 6540707XM7163H
+Superficie Total: 2049 m2
+Plantas: 7
+Año: 1900
+Perfil: Rehabilitación Histórica
+Benchmark: 2312 euros/m2
+GDV Estimado: 3789368 euros
+------------------------------
+ID: 95
+Direccion: CL AZOQUE, 60
+Referencia Catastral: 6234907XM7163C
+Superficie Total: 1636 m2
+Plantas: 3
+Año: 1893
+Perfil: Rehabilitación Histórica
+Benchmark: 2894 euros/m2
+GDV Estimado: 3785352 euros
+------------------------------
+ID: 96
+Direccion: CL RIC, PEDRO MARIA, 35
+Referencia Catastral: 6526809XM7162F
+Superficie Total: 2045 m2
+Plantas: 6
+Año: 1959
+Perfil: Optimización / BTR
+Benchmark: 2263 euros/m2
+GDV Estimado: 3702268 euros
+------------------------------
+ID: 97
+Direccion: CL SAN MIGUEL, 29
+Referencia Catastral: 6733512XM7163D
+Superficie Total: 1519 m2
+Plantas: 6
+Año: 1936
+Perfil: Rehabilitación Histórica
+Benchmark: 3036 euros/m2
+GDV Estimado: 3688740 euros
+------------------------------
+ID: 98
+Direccion: CL LATASSA, FELIX, 32
+Referencia Catastral: 5523104XM7152D
+Superficie Total: 1454 m2
+Plantas: 5
+Año: 1943
+Perfil: Optimización / BTR
+Benchmark: 3156 euros/m2
+GDV Estimado: 3670428 euros
+------------------------------
+ID: 99
+Direccion: CL CUATRO DE AGOSTO, 2
+Referencia Catastral: 6536801XM7163F
+Superficie Total: 1973 m2
+Plantas: 8
+Año: 1936
+Perfil: Rehabilitación Histórica
+Benchmark: 2312 euros/m2
+GDV Estimado: 3648336 euros
+------------------------------
+ID: 100
+Direccion: CL OLLETA, JUSEPILLO DE, 18
+Referencia Catastral: 7335921XM7173E
+Superficie Total: 1855 m2
+Plantas: 5
+Año: 1993
+Perfil: Patrimonial / Core
+Benchmark: 2449 euros/m2
+GDV Estimado: 3634316 euros
+------------------------------
+ID: 101
+Direccion: CL MANIFESTACION, 1
+Referencia Catastral: 6440704XM7164A
+Superficie Total: 1948 m2
+Plantas: 7
+Año: 1900
+Perfil: Rehabilitación Histórica
+Benchmark: 2312 euros/m2
+GDV Estimado: 3602096 euros
+------------------------------
+ID: 102
+Direccion: PZ PORTILLO, 3D
+Referencia Catastral: 5637106XM7153H
+Superficie Total: 1555 m2
+Plantas: 1
+Año: 1982
+Perfil: Patrimonial / Core
+Benchmark: 2894 euros/m2
+GDV Estimado: 3600136 euros
+------------------------------
+ID: 103
+Direccion: CL GIL BERGES, JOAQUIN, 4
+Referencia Catastral: 6437701XM7163G
+Superficie Total: 1929 m2
+Plantas: 7
+Año: 1936
+Perfil: Rehabilitación Histórica
+Benchmark: 2312 euros/m2
+GDV Estimado: 3567416 euros
+------------------------------
+ID: 104
+Direccion: CL ARANDA, 45D
+Referencia Catastral: 5938804XM7153H
+Superficie Total: 1530 m2
+Plantas: 7
+Año: 1936
+Perfil: Rehabilitación Histórica
+Benchmark: 2894 euros/m2
+GDV Estimado: 3542256 euros
+------------------------------
+ID: 105
+Direccion: CL SANTA JOAQUINA DE VEDRUNA, 18
+Referencia Catastral: 6527302XM7162G
+Superficie Total: 1945 m2
+Plantas: 6
+Año: 1948
+Perfil: Optimización / BTR
+Benchmark: 2263 euros/m2
+GDV Estimado: 3521228 euros
+------------------------------
+ID: 106
+Direccion: CL BOGGIERO, BASILIO, 28
+Referencia Catastral: 6138529XM7163G
+Superficie Total: 1895 m2
+Plantas: 3
+Año: 1936
+Perfil: Rehabilitación Histórica
+Benchmark: 2312 euros/m2
+GDV Estimado: 3504992 euros
+------------------------------
+ID: 107
+Direccion: PZ PILAR NTRA. SRA., 21
+Referencia Catastral: 6641104XM7164B
+Superficie Total: 1878 m2
+Plantas: 7
+Año: 1936
+Perfil: Rehabilitación Histórica
+Benchmark: 2312 euros/m2
+GDV Estimado: 3472624 euros
+------------------------------
+ID: 108
+Direccion: CL TORRE NUEVA, 29
+Referencia Catastral: 6438612XM7163G
+Superficie Total: 1875 m2
+Plantas: 4
+Año: 1936
+Perfil: Rehabilitación Histórica
+Benchmark: 2312 euros/m2
+GDV Estimado: 3468000 euros
+------------------------------
+ID: 109
+Direccion: CL SAN MIGUEL, 52
+Referencia Catastral: 6932201XM7163D
+Superficie Total: 1423 m2
+Plantas: 1
+Año: 1900
+Perfil: Rehabilitación Histórica
+Benchmark: 3036 euros/m2
+GDV Estimado: 3454968 euros
+------------------------------
+ID: 110
+Direccion: CL ALFONSO I, 18
+Referencia Catastral: 6637308XM7163H
+Superficie Total: 1855 m2
+Plantas: 7
+Año: 1936
+Perfil: Rehabilitación Histórica
+Benchmark: 2312 euros/m2
+GDV Estimado: 3431008 euros
+------------------------------
+ID: 111
+Direccion: CL ESTEBANES, 3
+Referencia Catastral: 6637106XM7163F
+Superficie Total: 1848 m2
+Plantas: 6
+Año: 1936
+Perfil: Rehabilitación Histórica
+Benchmark: 2312 euros/m2
+GDV Estimado: 3417136 euros
+------------------------------
+ID: 112
+Direccion: CL ARAGON, AGUSTINA DE, 38
+Referencia Catastral: 6037328XM7153H
+Superficie Total: 1450 m2
+Plantas: 4
+Año: 2006
+Perfil: Patrimonial / Core
+Benchmark: 2894 euros/m2
+GDV Estimado: 3357040 euros
+------------------------------
+ID: 113
+Direccion: CL PIGNATELLI, RAMON, 88
+Referencia Catastral: 5838821XM7153H
+Superficie Total: 1443 m2
+Plantas: 4
+Año: 1936
+Perfil: Rehabilitación Histórica
+Benchmark: 2894 euros/m2
+GDV Estimado: 3339676 euros
+------------------------------
+ID: 114
+Direccion: CL MAYOR, 68
+Referencia Catastral: 7135710XM7173E
+Superficie Total: 1346 m2
+Plantas: 4
+Año: 1899
+Perfil: Rehabilitación Histórica
+Benchmark: 3036 euros/m2
+GDV Estimado: 3266736 euros
+------------------------------
+ID: 115
+Direccion: CL ARCADAS, 36
+Referencia Catastral: 7334418XM7173C
+Superficie Total: 1667 m2
+Plantas: 5
+Año: 1946
+Perfil: Optimización / BTR
+Benchmark: 2449 euros/m2
+GDV Estimado: 3264517 euros
+------------------------------
+ID: 116
+Direccion: CL ARANDA, 101
+Referencia Catastral: 5638501XM7153H
+Superficie Total: 1406 m2
+Plantas: 7
+Año: 1950
+Perfil: Optimización / BTR
+Benchmark: 2894 euros/m2
+GDV Estimado: 3252856 euros
+------------------------------
+ID: 117
+Direccion: CL ARMAS, LAS, 23
+Referencia Catastral: 6339301XM7163G
+Superficie Total: 1753 m2
+Plantas: 6
+Año: 1950
+Perfil: Optimización / BTR
+Benchmark: 2312 euros/m2
+GDV Estimado: 3241424 euros
+------------------------------
+ID: 118
+Direccion: AV MADRID, 1
+Referencia Catastral: 5438201XM7153G
+Superficie Total: 1376 m2
+Plantas: 6
+Año: 1936
+Perfil: Rehabilitación Histórica
+Benchmark: 2894 euros/m2
+GDV Estimado: 3183400 euros
+------------------------------
+ID: 119
+Direccion: CL JUAN DE ARAGON, 16T
+Referencia Catastral: 6936517XM7173E
+Superficie Total: 1264 m2
+Plantas: 6
+Año: 1940
+Perfil: Optimización / BTR
+Benchmark: 3036 euros/m2
+GDV Estimado: 3069396 euros
+------------------------------
+ID: 120
+Direccion: PS PAMPLONA, 3
+Referencia Catastral: 5830805XM7163A
+Superficie Total: 1322 m2
+Plantas: 3
+Año: 1912
+Perfil: Rehabilitación Histórica
+Benchmark: 2894 euros/m2
+GDV Estimado: 3058958 euros
+------------------------------
+ID: 121
+Direccion: CL SAN LORENZO, 35
+Referencia Catastral: 7035506XM7173E
+Superficie Total: 1239 m2
+Plantas: 5
+Año: 1936
+Perfil: Rehabilitación Histórica
+Benchmark: 3036 euros/m2
+GDV Estimado: 3008676 euros
+------------------------------
+ID: 122
+Direccion: CL ORGANO, 3
+Referencia Catastral: 7136102XM7173E
+Superficie Total: 1237 m2
+Plantas: 4
+Año: 1945
+Perfil: Optimización / BTR
+Benchmark: 3036 euros/m2
+GDV Estimado: 3002604 euros
+------------------------------
+ID: 123
+Direccion: CL PORVENIR, 11
+Referencia Catastral: 5919503XM7151H
+Superficie Total: 1181 m2
+Plantas: 3
+Año: 1946
+Perfil: Optimización / BTR
+Benchmark: 3156 euros/m2
+GDV Estimado: 2979264 euros
+------------------------------
+ID: 124
+Direccion: CL HEROISMO, 50
+Referencia Catastral: 7033714XM7173C
+Superficie Total: 1514 m2
+Plantas: 5
+Año: 1936
+Perfil: Rehabilitación Histórica
+Benchmark: 2449 euros/m2
+GDV Estimado: 2965739 euros
+------------------------------
+ID: 125
+Direccion: CL ARANDA, 75
+Referencia Catastral: 5638512XM7153H
+Superficie Total: 1279 m2
+Plantas: 8
+Año: 1955
+Perfil: Optimización / BTR
+Benchmark: 2894 euros/m2
+GDV Estimado: 2960562 euros
+------------------------------
+ID: 126
+Direccion: CL SAN JORGE, 25
+Referencia Catastral: 7035806XM7173E
+Superficie Total: 1216 m2
+Plantas: 6
+Año: 1948
+Perfil: Optimización / BTR
+Benchmark: 3036 euros/m2
+GDV Estimado: 2950992 euros
+------------------------------
+ID: 127
+Direccion: CL ZAMORAY, JOSE, 2
+Referencia Catastral: 6037207XM7163G
+Superficie Total: 1270 m2
+Plantas: 4
+Año: 2005
+Perfil: Patrimonial / Core
+Benchmark: 2894 euros/m2
+GDV Estimado: 2940304 euros
+------------------------------
+ID: 128
+Direccion: CL SAN JUAN Y SAN PEDRO, 4
+Referencia Catastral: 6836902XM7163F
+Superficie Total: 1191 m2
+Plantas: 3
+Año: 1900
+Perfil: Rehabilitación Histórica
+Benchmark: 3036 euros/m2
+GDV Estimado: 2890272 euros
+------------------------------
+ID: 129
+Direccion: CL GIL DE JASA, ANTONIO, 6
+Referencia Catastral: 6026505XM7162E
+Superficie Total: 1132 m2
+Plantas: 5
+Año: 1930
+Perfil: Rehabilitación Histórica
+Benchmark: 3156 euros/m2
+GDV Estimado: 2856180 euros
+------------------------------
+ID: 130
+Direccion: AV SAN JOSE, 105
+Referencia Catastral: 7120415XM7172A
+Superficie Total: 1574 m2
+Plantas: 4
+Año: 1948
+Perfil: Optimización / BTR
+Benchmark: 2263 euros/m2
+GDV Estimado: 2849117 euros
+------------------------------
+ID: 131
+Direccion: AV CASPE, COMPROMISO DE, 83
+Referencia Catastral: 8028206XM7182G
+Superficie Total: 1453 m2
+Plantas: 4
+Año: 1964
+Perfil: Optimización / BTR
+Benchmark: 2449 euros/m2
+GDV Estimado: 2845738 euros
+------------------------------
+ID: 132
+Direccion: CL TEMPLE, 14
+Referencia Catastral: 6538311XM7163G
+Superficie Total: 1531 m2
+Plantas: 5
+Año: 1900
+Perfil: Rehabilitación Histórica
+Benchmark: 2312 euros/m2
+GDV Estimado: 2829888 euros
+------------------------------
+ID: 133
+Direccion: AV CESAR AUGUSTO, 9
+Referencia Catastral: 5934508XM7163C
+Superficie Total: 1216 m2
+Plantas: 6
+Año: 1937
+Perfil: Rehabilitación Histórica
+Benchmark: 2894 euros/m2
+GDV Estimado: 2812968 euros
+------------------------------
+ID: 134
+Direccion: PS AGUSTIN, MARIA, 67
+Referencia Catastral: 5438209XM7153G
+Superficie Total: 1216 m2
+Plantas: 6
+Año: 1936
+Perfil: Rehabilitación Histórica
+Benchmark: 2894 euros/m2
+GDV Estimado: 2812968 euros
+------------------------------
+ID: 135
+Direccion: CL HEROISMO, 24
+Referencia Catastral: 7133304XM7173C
+Superficie Total: 1433 m2
+Plantas: 6
+Año: 1938
+Perfil: Rehabilitación Histórica
+Benchmark: 2449 euros/m2
+GDV Estimado: 2806554 euros
+------------------------------
+ID: 136
+Direccion: CL HERNAZ, EDUARDO S., 3I
+Referencia Catastral: 6920738XM7162B
+Superficie Total: 1531 m2
+Plantas: 2
+Año: 1961
+Perfil: Optimización / BTR
+Benchmark: 2263 euros/m2
+GDV Estimado: 2769912 euros
+------------------------------
+ID: 137
+Direccion: CL BONET, JUAN PABLO, 14
+Referencia Catastral: 5922508XM7152B
+Superficie Total: 1079 m2
+Plantas: 6
+Año: 1955
+Perfil: Optimización / BTR
+Benchmark: 3156 euros/m2
+GDV Estimado: 2723628 euros
+------------------------------
+ID: 138
+Direccion: CL ARMAS, LAS, 32
+Referencia Catastral: 6240921XM7164A
+Superficie Total: 1473 m2
+Plantas: 4
+Año: 1936
+Perfil: Rehabilitación Histórica
+Benchmark: 2312 euros/m2
+GDV Estimado: 2723536 euros
+------------------------------
+ID: 139
+Direccion: PZ PILAR NTRA. SRA., 8
+Referencia Catastral: 6540705XM7163H
+Superficie Total: 1463 m2
+Plantas: 8
+Año: 1936
+Perfil: Rehabilitación Histórica
+Benchmark: 2312 euros/m2
+GDV Estimado: 2705040 euros
+------------------------------
+ID: 140
+Direccion: CL ARENAL, CONCEPCION, 4
+Referencia Catastral: 5226103XM7152E
+Superficie Total: 1312 m2
+Plantas: 4
+Año: 1971
+Perfil: Optimización / BTR
+Benchmark: 2565 euros/m2
+GDV Estimado: 2690685 euros
+------------------------------
+ID: 141
+Direccion: CL CASAS, 3
+Referencia Catastral: 6325619XM7162E
+Superficie Total: 1483 m2
+Plantas: 3
+Año: 1929
+Perfil: Rehabilitación Histórica
+Benchmark: 2263 euros/m2
+GDV Estimado: 2683918 euros
+------------------------------
+ID: 142
+Direccion: CL COSO, 158
+Referencia Catastral: 7234310XM7173C
+Superficie Total: 1348 m2
+Plantas: 5
+Año: 1880
+Perfil: Rehabilitación Histórica
+Benchmark: 2449 euros/m2
+GDV Estimado: 2640022 euros
+------------------------------
+ID: 143
+Direccion: CL OLLETA, JUSEPILLO DE, 15
+Referencia Catastral: 7336114XM7173E
+Superficie Total: 1340 m2
+Plantas: 7
+Año: 1993
+Perfil: Patrimonial / Core
+Benchmark: 2449 euros/m2
+GDV Estimado: 2625328 euros
+------------------------------
+ID: 144
+Direccion: CL ALLUE SALVADOR, MIGUEL, 3
+Referencia Catastral: 6932202XM7163B
+Superficie Total: 1073 m2
+Plantas: 1
+Año: 1950
+Perfil: Optimización / BTR
+Benchmark: 3036 euros/m2
+GDV Estimado: 2604888 euros
+------------------------------
+ID: 145
+Direccion: CL BARRIOVERDE, 6
+Referencia Catastral: 7334403XM7173E
+Superficie Total: 1308 m2
+Plantas: 4
+Año: 1991
+Perfil: Patrimonial / Core
+Benchmark: 2449 euros/m2
+GDV Estimado: 2561654 euros
+------------------------------
+ID: 146
+Direccion: CL MEFISTO, 5
+Referencia Catastral: 6730810XM7163B
+Superficie Total: 1043 m2
+Plantas: 6
+Año: 1928
+Perfil: Rehabilitación Histórica
+Benchmark: 3036 euros/m2
+GDV Estimado: 2532024 euros
+------------------------------
+ID: 147
+Direccion: CL DULONG, SANTIAGO, 1
+Referencia Catastral: 4742804XM7144B
+Superficie Total: 1361 m2
+Plantas: 5
+Año: 1963
+Perfil: Optimización / BTR
+Benchmark: 2312 euros/m2
+GDV Estimado: 2515456 euros
+------------------------------
+ID: 148
+Direccion: CL SAN ANDRES, 1
+Referencia Catastral: 6736803XM7163F
+Superficie Total: 1028 m2
+Plantas: 4
+Año: 1900
+Perfil: Rehabilitación Histórica
+Benchmark: 3036 euros/m2
+GDV Estimado: 2495592 euros
+------------------------------
+ID: 149
+Direccion: CL ALFONSO I, 6
+Referencia Catastral: 6536820XM7163E
+Superficie Total: 1342 m2
+Plantas: 5
+Año: 1870
+Perfil: Rehabilitación Histórica
+Benchmark: 2312 euros/m2
+GDV Estimado: 2480776 euros
+------------------------------
+ID: 150
+Direccion: CL RICLA, 6
+Referencia Catastral: 5728814XM7152H
+Superficie Total: 1207 m2
+Plantas: 5
+Año: 1932
+Perfil: Rehabilitación Histórica
+Benchmark: 2565 euros/m2
+GDV Estimado: 2475225 euros
+------------------------------
+ID: 151
+Direccion: CL CEREZO, MARIANO, 25
+Referencia Catastral: 5938316XM7153H
+Superficie Total: 1325 m2
+Plantas: 5
+Año: 1900
+Perfil: Rehabilitación Histórica
+Benchmark: 2312 euros/m2
+GDV Estimado: 2450720 euros
+------------------------------
+ID: 152
+Direccion: CL AZOQUE, 58
+Referencia Catastral: 6234906XM7163C
+Superficie Total: 1055 m2
+Plantas: 6
+Año: 1936
+Perfil: Rehabilitación Histórica
+Benchmark: 2894 euros/m2
+GDV Estimado: 2442536 euros
+------------------------------
+ID: 153
+Direccion: CL MAYOR, 60
+Referencia Catastral: 7135202XM7173E
+Superficie Total: 1006 m2
+Plantas: 5
+Año: 1936
+Perfil: Rehabilitación Histórica
+Benchmark: 3036 euros/m2
+GDV Estimado: 2440944 euros
+------------------------------
+ID: 154
+Direccion: CL JUAN DE ARAGON, 1
+Referencia Catastral: 6937408XM7163H
+Superficie Total: 1006 m2
+Plantas: 7
+Año: 1800
+Perfil: Rehabilitación Histórica
+Benchmark: 3036 euros/m2
+GDV Estimado: 2440944 euros
+------------------------------
+ID: 155
+Direccion: CL MANIFESTACION, 27
+Referencia Catastral: 6639208XM7163H
+Superficie Total: 1299 m2
+Plantas: 7
+Año: 1936
+Perfil: Rehabilitación Histórica
+Benchmark: 2312 euros/m2
+GDV Estimado: 2402168 euros
+------------------------------
+ID: 156
+Direccion: CL SAN BLAS, 37
+Referencia Catastral: 6239223XM7163G
+Superficie Total: 1299 m2
+Plantas: 4
+Año: 2000
+Perfil: Patrimonial / Core
+Benchmark: 2312 euros/m2
+GDV Estimado: 2402168 euros
+------------------------------
+ID: 157
+Direccion: CL LASALA VALDES, MARIO, 19
+Referencia Catastral: 5819324XM7151H
+Superficie Total: 951 m2
+Plantas: 4
+Año: 2007
+Perfil: Patrimonial / Core
+Benchmark: 3156 euros/m2
+GDV Estimado: 2398560 euros
+------------------------------
+ID: 158
+Direccion: PS AGUSTIN, MARIA, 81
+Referencia Catastral: 5438202XM7153G
+Superficie Total: 1036 m2
+Plantas: 6
+Año: 1936
+Perfil: Rehabilitación Histórica
+Benchmark: 2894 euros/m2
+GDV Estimado: 2396232 euros
+------------------------------
+ID: 159
+Direccion: CL SAN PABLO, 37
+Referencia Catastral: 6138503XM7163G
+Superficie Total: 1284 m2
+Plantas: 4
+Año: 1900
+Perfil: Rehabilitación Histórica
+Benchmark: 2312 euros/m2
+GDV Estimado: 2374424 euros
+------------------------------
+ID: 160
+Direccion: CL GASCON DE GOTOR, ANSELMO, 7
+Referencia Catastral: 6020618XM7162A
+Superficie Total: 940 m2
+Plantas: 4
+Año: 1941
+Perfil: Optimización / BTR
+Benchmark: 3156 euros/m2
+GDV Estimado: 2373312 euros
+------------------------------
+ID: 161
+Direccion: CL ESPOZ Y MINA, 6
+Referencia Catastral: 6638903XM7163H
+Superficie Total: 1283 m2
+Plantas: 8
+Año: 1940
+Perfil: Optimización / BTR
+Benchmark: 2312 euros/m2
+GDV Estimado: 2372112 euros
+------------------------------
+ID: 162
+Direccion: CL ESCOSURA, DESIDERIO, 25
+Referencia Catastral: 5129203XM7152G
+Superficie Total: 1151 m2
+Plantas: 4
+Año: 1967
+Perfil: Optimización / BTR
+Benchmark: 2565 euros/m2
+GDV Estimado: 2359800 euros
+------------------------------
+ID: 163
+Direccion: CL ARANDA, 31
+Referencia Catastral: 6037305XM7163G
+Superficie Total: 1019 m2
+Plantas: 8
+Año: 1927
+Perfil: Rehabilitación Histórica
+Benchmark: 2894 euros/m2
+GDV Estimado: 2358610 euros
+------------------------------
+ID: 164
+Direccion: CL MINGUIJON, SALVADOR, 47
+Referencia Catastral: 8132301XM7183C
+Superficie Total: 1202 m2
+Plantas: 5
+Año: 1964
+Perfil: Optimización / BTR
+Benchmark: 2449 euros/m2
+GDV Estimado: 2353489 euros
+------------------------------
+ID: 165
+Direccion: CL PAZ, 13
+Referencia Catastral: 6324420XM7162C
+Superficie Total: 1294 m2
+Plantas: 4
+Año: 1935
+Perfil: Rehabilitación Histórica
+Benchmark: 2263 euros/m2
+GDV Estimado: 2342205 euros
+------------------------------
+ID: 166
+Direccion: CL BURGOS, 34
+Referencia Catastral: 5129609XM7152G
+Superficie Total: 1120 m2
+Plantas: 5
+Año: 1960
+Perfil: Optimización / BTR
+Benchmark: 2565 euros/m2
+GDV Estimado: 2298240 euros
+------------------------------
+ID: 167
+Direccion: CL FITA, BERNARDO, 1
+Referencia Catastral: 5728410XM7152H
+Superficie Total: 1119 m2
+Plantas: 6
+Año: 1927
+Perfil: Rehabilitación Histórica
+Benchmark: 2565 euros/m2
+GDV Estimado: 2295675 euros
+------------------------------
+ID: 168
+Direccion: CL TARRAGONA, 5
+Referencia Catastral: 5330907XM7153A
+Superficie Total: 1110 m2
+Plantas: 7
+Año: 1940
+Perfil: Optimización / BTR
+Benchmark: 2565 euros/m2
+GDV Estimado: 2277720 euros
+------------------------------
+ID: 169
+Direccion: CL BORAO, JERONIMO, 3
+Referencia Catastral: 5437207XM7153G
+Superficie Total: 984 m2
+Plantas: 3
+Año: 1925
+Perfil: Rehabilitación Histórica
+Benchmark: 2894 euros/m2
+GDV Estimado: 2277578 euros
+------------------------------
+ID: 170
+Direccion: CL PIGNATELLI, RAMON, 61
+Referencia Catastral: 6036213XM7153F
+Superficie Total: 982 m2
+Plantas: 3
+Año: 1936
+Perfil: Rehabilitación Histórica
+Benchmark: 2894 euros/m2
+GDV Estimado: 2271790 euros
+------------------------------
+ID: 171
+Direccion: CL COSO, 196
+Referencia Catastral: 7434201XM7173E
+Superficie Total: 1159 m2
+Plantas: 8
+Año: 1995
+Perfil: Patrimonial / Core
+Benchmark: 2449 euros/m2
+GDV Estimado: 2270223 euros
+------------------------------
+ID: 172
+Direccion: CL URREA, 24
+Referencia Catastral: 6733509XM7163D
+Superficie Total: 934 m2
+Plantas: 4
+Año: 1936
+Perfil: Rehabilitación Histórica
+Benchmark: 3036 euros/m2
+GDV Estimado: 2267892 euros
+------------------------------
+ID: 173
+Direccion: CL TARRAGONA, 7
+Referencia Catastral: 5330906XM7153A
+Superficie Total: 1106 m2
+Plantas: 6
+Año: 1940
+Perfil: Optimización / BTR
+Benchmark: 2565 euros/m2
+GDV Estimado: 2267460 euros
+------------------------------
+ID: 174
+Direccion: CL MORCILLO,, 16
+Referencia Catastral: 5819311XM7151H
+Superficie Total: 895 m2
+Plantas: 7
+Año: 1992
+Perfil: Patrimonial / Core
+Benchmark: 3156 euros/m2
+GDV Estimado: 2259696 euros
+------------------------------
+ID: 175
+Direccion: AV CESAR AUGUSTO, 121
+Referencia Catastral: 6241206XM7164A
+Superficie Total: 1214 m2
+Plantas: 6
+Año: 1952
+Perfil: Optimización / BTR
+Benchmark: 2312 euros/m2
+GDV Estimado: 2244952 euros
+------------------------------
+ID: 176
+Direccion: CL PREDICADORES, 70
+Referencia Catastral: 6241229XM7164A
+Superficie Total: 1213 m2
+Plantas: 6
+Año: 1900
+Perfil: Rehabilitación Histórica
+Benchmark: 2312 euros/m2
+GDV Estimado: 2242640 euros
+------------------------------
+ID: 177
+Direccion: AV GOYA, FRANCISCO DE, 60
+Referencia Catastral: 5627103XM7152F
+Superficie Total: 1093 m2
+Plantas: 6
+Año: 1942
+Perfil: Optimización / BTR
+Benchmark: 2565 euros/m2
+GDV Estimado: 2241810 euros
+------------------------------
+ID: 178
+Direccion: CL BORAO, JERONIMO, 16
+Referencia Catastral: 5438217XM7153G
+Superficie Total: 968 m2
+Plantas: 4
+Año: 1965
+Perfil: Optimización / BTR
+Benchmark: 2894 euros/m2
+GDV Estimado: 2239956 euros
+------------------------------
+ID: 179
+Direccion: CL LIBERTAD, 5
+Referencia Catastral: 6536505XM7163F
+Superficie Total: 1199 m2
+Plantas: 5
+Año: 1882
+Perfil: Rehabilitación Histórica
+Benchmark: 2312 euros/m2
+GDV Estimado: 2217208 euros
+------------------------------
+ID: 180
+Direccion: CL TOLEDO, 26
+Referencia Catastral: 5230918XM7153A
+Superficie Total: 1071 m2
+Plantas: 4
+Año: 1947
+Perfil: Optimización / BTR
+Benchmark: 2565 euros/m2
+GDV Estimado: 2195640 euros
+------------------------------
+ID: 181
+Direccion: CL FIGUERAS JARIOD, DOMINGO, 8
+Referencia Catastral: 5440804XM7154A
+Superficie Total: 938 m2
+Plantas: 3
+Año: 1962
+Perfil: Optimización / BTR
+Benchmark: 2894 euros/m2
+GDV Estimado: 2170500 euros
+------------------------------
+ID: 182
+Direccion: CL RIBAGORZA, 14
+Referencia Catastral: 4843218XM7144D
+Superficie Total: 1172 m2
+Plantas: 5
+Año: 1960
+Perfil: Optimización / BTR
+Benchmark: 2312 euros/m2
+GDV Estimado: 2166344 euros
+------------------------------
+ID: 183
+Direccion: CL SALAMANCA, 3
+Referencia Catastral: 5230910XM7153A
+Superficie Total: 1052 m2
+Plantas: 5
+Año: 1943
+Perfil: Optimización / BTR
+Benchmark: 2565 euros/m2
+GDV Estimado: 2157165 euros
+------------------------------
+ID: 184
+Direccion: CL ESTREMIANA, 4
+Referencia Catastral: 6017606XM7161E
+Superficie Total: 849 m2
+Plantas: 4
+Año: 1923
+Perfil: Rehabilitación Histórica
+Benchmark: 3156 euros/m2
+GDV Estimado: 2142924 euros
+------------------------------
+ID: 185
+Direccion: PS DAMAS, 36
+Referencia Catastral: 6325602XM7162E
+Superficie Total: 1175 m2
+Plantas: 7
+Año: 1933
+Perfil: Rehabilitación Histórica
+Benchmark: 2263 euros/m2
+GDV Estimado: 2127220 euros
+------------------------------
+ID: 186
+Direccion: CL BRETON, TOMAS, 28
+Referencia Catastral: 5326419XM7152E
+Superficie Total: 1035 m2
+Plantas: 4
+Año: 1963
+Perfil: Optimización / BTR
+Benchmark: 2565 euros/m2
+GDV Estimado: 2123820 euros
+------------------------------
+ID: 187
+Direccion: CL BORAO, JERONIMO, 2
+Referencia Catastral: 5438210XM7153G
+Superficie Total: 909 m2
+Plantas: 5
+Año: 1936
+Perfil: Rehabilitación Histórica
+Benchmark: 2894 euros/m2
+GDV Estimado: 2103938 euros
+------------------------------
+ID: 188
+Direccion: CL BOGGIERO, BASILIO, 71
+Referencia Catastral: 5938313XM7153H
+Superficie Total: 1133 m2
+Plantas: 4
+Año: 1991
+Perfil: Patrimonial / Core
+Benchmark: 2312 euros/m2
+GDV Estimado: 2094672 euros
+------------------------------
+ID: 189
+Direccion: CL CINCO DE MARZO, 4
+Referencia Catastral: 6435911XM7163C
+Superficie Total: 903 m2
+Plantas: 5
+Año: 1936
+Perfil: Rehabilitación Histórica
+Benchmark: 2894 euros/m2
+GDV Estimado: 2089468 euros
+------------------------------
+ID: 190
+Direccion: CL FITA, BERNARDO, 13
+Referencia Catastral: 5728405XM7152H
+Superficie Total: 1017 m2
+Plantas: 5
+Año: 1970
+Perfil: Optimización / BTR
+Benchmark: 2565 euros/m2
+GDV Estimado: 2085345 euros
+------------------------------
+ID: 191
+Direccion: CL PAMPLONA ESCUDERO, RAFAEL, 35
+Referencia Catastral: 5228805XM7152G
+Superficie Total: 1010 m2
+Plantas: 3
+Año: 1962
+Perfil: Optimización / BTR
+Benchmark: 2565 euros/m2
+GDV Estimado: 2072520 euros
+------------------------------
+ID: 192
+Direccion: CL JUAN DE ARAGON, 5
+Referencia Catastral: 6937406XM7163H
+Superficie Total: 853 m2
+Plantas: 4
+Año: 1700
+Perfil: Rehabilitación Histórica
+Benchmark: 3036 euros/m2
+GDV Estimado: 2070552 euros
+------------------------------
+ID: 193
+Direccion: CL CINCA, RIO, 45
+Referencia Catastral: 4843204XM7144D
+Superficie Total: 1119 m2
+Plantas: 5
+Año: 1960
+Perfil: Optimización / BTR
+Benchmark: 2312 euros/m2
+GDV Estimado: 2069240 euros
+------------------------------
+ID: 194
+Direccion: CL MARTINEZ, JUSSEPE, 13
+Referencia Catastral: 6738112XM7163H
+Superficie Total: 1106 m2
+Plantas: 4
+Año: 1936
+Perfil: Rehabilitación Histórica
+Benchmark: 2312 euros/m2
+GDV Estimado: 2043808 euros
+------------------------------
+ID: 195
+Direccion: CL ESCOSURA, DESIDERIO, 16
+Referencia Catastral: 5129611XM7152G
+Superficie Total: 986 m2
+Plantas: 4
+Año: 1958
+Perfil: Optimización / BTR
+Benchmark: 2565 euros/m2
+GDV Estimado: 2021220 euros
+------------------------------
+ID: 196
+Direccion: CL ABEN AIRE, 8
+Referencia Catastral: 6241208XM7164A
+Superficie Total: 1088 m2
+Plantas: 6
+Año: 1952
+Perfil: Optimización / BTR
+Benchmark: 2312 euros/m2
+GDV Estimado: 2011440 euros
+------------------------------
+ID: 197
+Direccion: GR CASAMAYOR Y C ANDREA, 30D
+Referencia Catastral: 8330234XM7183A
+Superficie Total: 1027 m2
+Plantas: 2
+Año: 1957
+Perfil: Optimización / BTR
+Benchmark: 2449 euros/m2
+GDV Estimado: 2010629 euros
+------------------------------
+ID: 198
+Direccion: CL COSO, 20
+Referencia Catastral: 6336305XM7163E
+Superficie Total: 858 m2
+Plantas: 6
+Año: 1919
+Perfil: Rehabilitación Histórica
+Benchmark: 2894 euros/m2
+GDV Estimado: 1985284 euros
+------------------------------
+ID: 199
+Direccion: CL ARAGON, 6
+Referencia Catastral: 5629603XM7152H
+Superficie Total: 967 m2
+Plantas: 4
+Año: 1936
+Perfil: Rehabilitación Histórica
+Benchmark: 2565 euros/m2
+GDV Estimado: 1982745 euros
+------------------------------
+ID: 200
+Direccion: CL SAN PABLO, 131
+Referencia Catastral: 5839312XM7154B
+Superficie Total: 1063 m2
+Plantas: 3
+Año: 1992
+Perfil: Patrimonial / Core
+Benchmark: 2312 euros/m2
+GDV Estimado: 1965200 euros
+------------------------------
+ID: 201
+Direccion: PZ SAN MIGUEL, 11
+Referencia Catastral: 6933906XM7163D
+Superficie Total: 805 m2
+Plantas: 6
+Año: 1900
+Perfil: Rehabilitación Histórica
+Benchmark: 3036 euros/m2
+GDV Estimado: 1955184 euros
+------------------------------
+ID: 202
+Direccion: PZ PORTAL, NUESTRA SRA., 3
+Referencia Catastral: 8031406XM7183A
+Superficie Total: 998 m2
+Plantas: 5
+Año: 1963
+Perfil: Optimización / BTR
+Benchmark: 2449 euros/m2
+GDV Estimado: 1954302 euros
+------------------------------
+ID: 203
+Direccion: CL PIGNATELLI, RAMON, 69
+Referencia Catastral: 6036209XM7153F
+Superficie Total: 834 m2
+Plantas: 3
+Año: 1936
+Perfil: Rehabilitación Histórica
+Benchmark: 2894 euros/m2
+GDV Estimado: 1930298 euros
+------------------------------
+ID: 204
+Direccion: CL ARAGON, AGUSTINA DE, 25
+Referencia Catastral: 6037210XM7163G
+Superficie Total: 832 m2
+Plantas: 4
+Año: 2016
+Perfil: Patrimonial / Core
+Benchmark: 2894 euros/m2
+GDV Estimado: 1924510 euros
+------------------------------
+ID: 205
+Direccion: CL MANIFESTACION, 24
+Referencia Catastral: 6539813XM7163H
+Superficie Total: 1041 m2
+Plantas: 6
+Año: 1828
+Perfil: Rehabilitación Histórica
+Benchmark: 2312 euros/m2
+GDV Estimado: 1923584 euros
+------------------------------
+ID: 206
+Direccion: CL SAN PABLO, 47
+Referencia Catastral: 6039812XM7163G
+Superficie Total: 1025 m2
+Plantas: 7
+Año: 1969
+Perfil: Optimización / BTR
+Benchmark: 2312 euros/m2
+GDV Estimado: 1895840 euros
+------------------------------
+ID: 207
+Direccion: CL TORRE NUEVA, 13
+Referencia Catastral: 6438409XM7163G
+Superficie Total: 1009 m2
+Plantas: 4
+Año: 1900
+Perfil: Rehabilitación Histórica
+Benchmark: 2312 euros/m2
+GDV Estimado: 1865784 euros
+------------------------------
+ID: 208
+Direccion: CL MARTINEZ, JUSSEPE, 9
+Referencia Catastral: 6738113XM7163H
+Superficie Total: 993 m2
+Plantas: 5
+Año: 1936
+Perfil: Rehabilitación Histórica
+Benchmark: 2312 euros/m2
+GDV Estimado: 1835728 euros
+------------------------------
+ID: 209
+Direccion: CL ALCALA, 2
+Referencia Catastral: 7233802XM7173C
+Superficie Total: 933 m2
+Plantas: 3
+Año: 1992
+Perfil: Patrimonial / Core
+Benchmark: 2449 euros/m2
+GDV Estimado: 1826954 euros
+------------------------------
+ID: 210
+Direccion: CL CANTIN Y GAMBOA, FCO., 6
+Referencia Catastral: 7234103XM7173C
+Superficie Total: 924 m2
+Plantas: 3
+Año: 1936
+Perfil: Rehabilitación Histórica
+Benchmark: 2449 euros/m2
+GDV Estimado: 1809811 euros
+------------------------------
+ID: 211
+Direccion: CL ARAGON, AGUSTINA DE, 19
+Referencia Catastral: 6037213XM7163G
+Superficie Total: 781 m2
+Plantas: 7
+Año: 1934
+Perfil: Rehabilitación Histórica
+Benchmark: 2894 euros/m2
+GDV Estimado: 1805856 euros
+------------------------------
+ID: 212
+Direccion: CL MINGOTE, 11
+Referencia Catastral: 8131206XM7183A
+Superficie Total: 910 m2
+Plantas: 5
+Año: 1964
+Perfil: Optimización / BTR
+Benchmark: 2449 euros/m2
+GDV Estimado: 1782872 euros
+------------------------------
+ID: 213
+Direccion: CL MORLANES, GIL, 21
+Referencia Catastral: 7219817XM7171G
+Superficie Total: 984 m2
+Plantas: 5
+Año: 1966
+Perfil: Optimización / BTR
+Benchmark: 2263 euros/m2
+GDV Estimado: 1780981 euros
+------------------------------
+ID: 214
+Direccion: CL ALVAREZ, CASTA, 86
+Referencia Catastral: 6141826XM7164A
+Superficie Total: 956 m2
+Plantas: 6
+Año: 1936
+Perfil: Rehabilitación Histórica
+Benchmark: 2312 euros/m2
+GDV Estimado: 1766368 euros
+------------------------------
+ID: 215
+Direccion: CL SAN PABLO, 75
+Referencia Catastral: 5939918XM7153H
+Superficie Total: 954 m2
+Plantas: 5
+Año: 1936
+Perfil: Rehabilitación Histórica
+Benchmark: 2312 euros/m2
+GDV Estimado: 1764056 euros
+------------------------------
+ID: 216
+Direccion: CL SAN MARTIN, 3
+Referencia Catastral: 6237807XM7163E
+Superficie Total: 761 m2
+Plantas: 5
+Año: 1936
+Perfil: Rehabilitación Histórica
+Benchmark: 2894 euros/m2
+GDV Estimado: 1759552 euros
+------------------------------
+ID: 217
+Direccion: CL ESCOBAR, 11
+Referencia Catastral: 6241204XM7164A
+Superficie Total: 949 m2
+Plantas: 6
+Año: 1952
+Perfil: Optimización / BTR
+Benchmark: 2312 euros/m2
+GDV Estimado: 1754808 euros
+------------------------------
+ID: 218
+Direccion: PZ SAN MIGUEL, 3
+Referencia Catastral: 7032314XM7173C
+Superficie Total: 723 m2
+Plantas: 7
+Año: 1995
+Perfil: Patrimonial / Core
+Benchmark: 3036 euros/m2
+GDV Estimado: 1754808 euros
+------------------------------
+ID: 219
+Direccion: CL JAIME I, 3
+Referencia Catastral: 6635408XM7163F
+Superficie Total: 947 m2
+Plantas: 6
+Año: 1936
+Perfil: Rehabilitación Histórica
+Benchmark: 2312 euros/m2
+GDV Estimado: 1750184 euros
+------------------------------
+ID: 220
+Direccion: CL ABEN AIRE, 6
+Referencia Catastral: 6241207XM7164A
+Superficie Total: 947 m2
+Plantas: 6
+Año: 1952
+Perfil: Optimización / BTR
+Benchmark: 2312 euros/m2
+GDV Estimado: 1750184 euros
+------------------------------
+ID: 221
+Direccion: CL ARA, MIGUEL DE, 12
+Referencia Catastral: 6039817XM7163G
+Superficie Total: 945 m2
+Plantas: 5
+Año: 1936
+Perfil: Rehabilitación Histórica
+Benchmark: 2312 euros/m2
+GDV Estimado: 1747872 euros
+------------------------------
+ID: 222
+Direccion: CL FIGUERAS JARIOD, DOMINGO, 7
+Referencia Catastral: 5439402XM7154A
+Superficie Total: 754 m2
+Plantas: 3
+Año: 1936
+Perfil: Rehabilitación Histórica
+Benchmark: 2894 euros/m2
+GDV Estimado: 1745082 euros
+------------------------------
+ID: 223
+Direccion: CL RODRIGUEZ DE LA FUENTE, 1Z
+Referencia Catastral: 7536916XM7173F
+Superficie Total: 889 m2
+Plantas: 6
+Año: 1960
+Perfil: Optimización / BTR
+Benchmark: 2449 euros/m2
+GDV Estimado: 1741239 euros
+------------------------------
+ID: 224
+Direccion: CL PIGNATELLI, RAMON, 57
+Referencia Catastral: 6036215XM7153F
+Superficie Total: 750 m2
+Plantas: 3
+Año: 1992
+Perfil: Patrimonial / Core
+Benchmark: 2894 euros/m2
+GDV Estimado: 1736400 euros
+------------------------------
+ID: 225
+Direccion: CL HERNAZ, EDUARDO S., 19
+Referencia Catastral: 6920702XM7162B
+Superficie Total: 959 m2
+Plantas: 4
+Año: 2009
+Perfil: Patrimonial / Core
+Benchmark: 2263 euros/m2
+GDV Estimado: 1735721 euros
+------------------------------
+ID: 226
+Direccion: CL SAN PABLO, 61
+Referencia Catastral: 6039806XM7163G
+Superficie Total: 936 m2
+Plantas: 3
+Año: 1500
+Perfil: Rehabilitación Histórica
+Benchmark: 2312 euros/m2
+GDV Estimado: 1729376 euros
+------------------------------
+ID: 227
+Direccion: CL ARMAS, LAS, 91
+Referencia Catastral: 6040704XM7164A
+Superficie Total: 919 m2
+Plantas: 4
+Año: 1936
+Perfil: Rehabilitación Histórica
+Benchmark: 2312 euros/m2
+GDV Estimado: 1699320 euros
+------------------------------
+ID: 228
+Direccion: CL MINGOTE, 13
+Referencia Catastral: 8131205XM7183A
+Superficie Total: 865 m2
+Plantas: 4
+Año: 1964
+Perfil: Optimización / BTR
+Benchmark: 2449 euros/m2
+GDV Estimado: 1694708 euros
+------------------------------
+ID: 229
+Direccion: CL RECONQUISTA, 8
+Referencia Catastral: 7032203XM7173C
+Superficie Total: 698 m2
+Plantas: 5
+Año: 1936
+Perfil: Rehabilitación Histórica
+Benchmark: 3036 euros/m2
+GDV Estimado: 1694088 euros
+------------------------------
+ID: 230
+Direccion: CL LIÑAN, PEDRO, 6
+Referencia Catastral: 7136303XM7173E
+Superficie Total: 693 m2
+Plantas: 6
+Año: 1935
+Perfil: Rehabilitación Histórica
+Benchmark: 3036 euros/m2
+GDV Estimado: 1681944 euros
+------------------------------
+ID: 231
+Direccion: CL MAYOR, 9
+Referencia Catastral: 6837602XM7163H
+Superficie Total: 689 m2
+Plantas: 6
+Año: 1970
+Perfil: Optimización / BTR
+Benchmark: 3036 euros/m2
+GDV Estimado: 1672836 euros
+------------------------------
+ID: 232
+Direccion: CL BOGGIERO, BASILIO, 94
+Referencia Catastral: 5939934XM7153H
+Superficie Total: 904 m2
+Plantas: 3
+Año: 1900
+Perfil: Rehabilitación Histórica
+Benchmark: 2312 euros/m2
+GDV Estimado: 1671576 euros
+------------------------------
+ID: 233
+Direccion: CL SAN ANTONIO MARIA CLARET, 35
+Referencia Catastral: 5426920XM7152E
+Superficie Total: 808 m2
+Plantas: 5
+Año: 1936
+Perfil: Rehabilitación Histórica
+Benchmark: 2565 euros/m2
+GDV Estimado: 1656990 euros
+------------------------------
+ID: 234
+Direccion: CL HEROISMO, 38
+Referencia Catastral: 7033708XM7173C
+Superficie Total: 842 m2
+Plantas: 5
+Año: 1900
+Perfil: Rehabilitación Histórica
+Benchmark: 2449 euros/m2
+GDV Estimado: 1648177 euros
+------------------------------
+ID: 235
+Direccion: CL CEJADOR FRAUCA, JULIO, 8
+Referencia Catastral: 5817206XM7151F
+Superficie Total: 653 m2
+Plantas: 2
+Año: 1991
+Perfil: Patrimonial / Core
+Benchmark: 3156 euros/m2
+GDV Estimado: 1647432 euros
+------------------------------
+ID: 236
+Direccion: CL HEROISMO, 31
+Referencia Catastral: 7133906XM7173C
+Superficie Total: 838 m2
+Plantas: 4
+Año: 1900
+Perfil: Rehabilitación Histórica
+Benchmark: 2449 euros/m2
+GDV Estimado: 1640830 euros
+------------------------------
+ID: 237
+Direccion: AV CESAR AUGUSTO, 47
+Referencia Catastral: 6238415XM7163G
+Superficie Total: 885 m2
+Plantas: 5
+Año: 1900
+Perfil: Rehabilitación Histórica
+Benchmark: 2312 euros/m2
+GDV Estimado: 1636896 euros
+------------------------------
+ID: 238
+Direccion: CL PAZ, 20
+Referencia Catastral: 6324105XM7162C
+Superficie Total: 897 m2
+Plantas: 4
+Año: 1936
+Perfil: Rehabilitación Histórica
+Benchmark: 2263 euros/m2
+GDV Estimado: 1622571 euros
+------------------------------
+ID: 239
+Direccion: CL ARENAL, CONCEPCION, 11
+Referencia Catastral: 5225520XM7152E
+Superficie Total: 791 m2
+Plantas: 4
+Año: 1936
+Perfil: Rehabilitación Histórica
+Benchmark: 2565 euros/m2
+GDV Estimado: 1621080 euros
+------------------------------
+ID: 240
+Direccion: CL PRINCESA, 4
+Referencia Catastral: 5629604XM7152H
+Superficie Total: 789 m2
+Plantas: 4
+Año: 1931
+Perfil: Rehabilitación Histórica
+Benchmark: 2565 euros/m2
+GDV Estimado: 1618515 euros
+------------------------------
+ID: 241
+Direccion: CL BOGGIERO, BASILIO, 33
+Referencia Catastral: 6038612XM7163G
+Superficie Total: 869 m2
+Plantas: 4
+Año: 1936
+Perfil: Rehabilitación Histórica
+Benchmark: 2312 euros/m2
+GDV Estimado: 1606840 euros
+------------------------------
+ID: 242
+Direccion: CL ABEN AIRE, 10
+Referencia Catastral: 6241209XM7164A
+Superficie Total: 867 m2
+Plantas: 6
+Año: 1952
+Perfil: Optimización / BTR
+Benchmark: 2312 euros/m2
+GDV Estimado: 1602216 euros
+------------------------------
+ID: 243
+Direccion: CL COCCI, JORGE, 25
+Referencia Catastral: 7529630XM7172H
+Superficie Total: 818 m2
+Plantas: 6
+Año: 1965
+Perfil: Optimización / BTR
+Benchmark: 2449 euros/m2
+GDV Estimado: 1601646 euros
+------------------------------
+ID: 244
+Direccion: CL ESCOSURA, DESIDERIO, 2
+Referencia Catastral: 5228308XM7152G
+Superficie Total: 781 m2
+Plantas: 4
+Año: 1952
+Perfil: Optimización / BTR
+Benchmark: 2565 euros/m2
+GDV Estimado: 1600560 euros
+------------------------------
+ID: 245
+Direccion: CL ESCOSURA, DESIDERIO, 14
+Referencia Catastral: 5129610XM7152G
+Superficie Total: 770 m2
+Plantas: 6
+Año: 1960
+Perfil: Optimización / BTR
+Benchmark: 2565 euros/m2
+GDV Estimado: 1580040 euros
+------------------------------
+ID: 246
+Direccion: PS AGUSTIN, MARIA, 71I
+Referencia Catastral: 5438227XM7153G
+Superficie Total: 682 m2
+Plantas: 2
+Año: 1961
+Perfil: Optimización / BTR
+Benchmark: 2894 euros/m2
+GDV Estimado: 1577230 euros
+------------------------------
+ID: 247
+Direccion: CL COSO, 65
+Referencia Catastral: 6735805XM7163D
+Superficie Total: 645 m2
+Plantas: 7
+Año: 1940
+Perfil: Optimización / BTR
+Benchmark: 3036 euros/m2
+GDV Estimado: 1566576 euros
+------------------------------
+ID: 248
+Direccion: CL HEROISMO, 43
+Referencia Catastral: 7132314XM7173C
+Superficie Total: 798 m2
+Plantas: 4
+Año: 1900
+Perfil: Rehabilitación Histórica
+Benchmark: 2449 euros/m2
+GDV Estimado: 1562462 euros
+------------------------------
+ID: 249
+Direccion: CL ARAGON, AGUSTINA DE, 54
+Referencia Catastral: 5938810XM7153H
+Superficie Total: 662 m2
+Plantas: 6
+Año: 1936
+Perfil: Rehabilitación Histórica
+Benchmark: 2894 euros/m2
+GDV Estimado: 1530926 euros
+------------------------------
+ID: 250
+Direccion: CL MAYOR, 58
+Referencia Catastral: 7135201XM7173E
+Superficie Total: 624 m2
+Plantas: 4
+Año: 1936
+Perfil: Rehabilitación Histórica
+Benchmark: 3036 euros/m2
+GDV Estimado: 1514964 euros
+------------------------------
+ID: 251
+Direccion: CL SUPERVIA, MARIANO, 52
+Referencia Catastral: 5420703XM7151G
+Superficie Total: 599 m2
+Plantas: 2
+Año: 1974
+Perfil: Optimización / BTR
+Benchmark: 3156 euros/m2
+GDV Estimado: 1511724 euros
+------------------------------
+ID: 252
+Direccion: CL RUSIÑOL, SANTIAGO, 41
+Referencia Catastral: 7730107XM7173B
+Superficie Total: 762 m2
+Plantas: 3
+Año: 1922
+Perfil: Rehabilitación Histórica
+Benchmark: 2449 euros/m2
+GDV Estimado: 1491441 euros
+------------------------------
+ID: 253
+Direccion: CL PREDICADORES, 52
+Referencia Catastral: 6241222XM7164A
+Superficie Total: 806 m2
+Plantas: 4
+Año: 1900
+Perfil: Rehabilitación Histórica
+Benchmark: 2312 euros/m2
+GDV Estimado: 1488928 euros
+------------------------------
+ID: 254
+Direccion: CL LANDA, 11
+Referencia Catastral: 5245113XM7154C
+Superficie Total: 804 m2
+Plantas: 4
+Año: 1968
+Perfil: Optimización / BTR
+Benchmark: 2312 euros/m2
+GDV Estimado: 1486616 euros
+------------------------------
+ID: 255
+Direccion: CL ARMAS, LAS, 89
+Referencia Catastral: 6040705XM7164A
+Superficie Total: 800 m2
+Plantas: 4
+Año: 1936
+Perfil: Rehabilitación Histórica
+Benchmark: 2312 euros/m2
+GDV Estimado: 1479680 euros
+------------------------------
+ID: 256
+Direccion: PZ SANTO DOMINGO, 18
+Referencia Catastral: 5941755XM7154B
+Superficie Total: 793 m2
+Plantas: 3
+Año: 1900
+Perfil: Rehabilitación Histórica
+Benchmark: 2312 euros/m2
+GDV Estimado: 1465808 euros
+------------------------------
+ID: 257
+Direccion: CL ARMAS, LAS, 88
+Referencia Catastral: 6140243XM7164A
+Superficie Total: 787 m2
+Plantas: 4
+Año: 1936
+Perfil: Rehabilitación Histórica
+Benchmark: 2312 euros/m2
+GDV Estimado: 1454248 euros
+------------------------------
+ID: 258
+Direccion: CL RODRIGUEZ DE LA FUENTE, 1X
+Referencia Catastral: 7536918XM7173F
+Superficie Total: 742 m2
+Plantas: 6
+Año: 1960
+Perfil: Optimización / BTR
+Benchmark: 2449 euros/m2
+GDV Estimado: 1452257 euros
+------------------------------
+ID: 259
+Direccion: CL RODRIGUEZ DE LA FUENTE, 1Y
+Referencia Catastral: 7536917XM7173F
+Superficie Total: 742 m2
+Plantas: 6
+Año: 1960
+Perfil: Optimización / BTR
+Benchmark: 2449 euros/m2
+GDV Estimado: 1452257 euros
+------------------------------
+ID: 260
+Direccion: CL RUFAS, 5
+Referencia Catastral: 6833912XM7163D
+Superficie Total: 598 m2
+Plantas: 4
+Año: 1900
+Perfil: Rehabilitación Histórica
+Benchmark: 3036 euros/m2
+GDV Estimado: 1451208 euros
+------------------------------
+ID: 261
+Direccion: CL PIGNATELLI, RAMON, 30
+Referencia Catastral: 6137610XM7163E
+Superficie Total: 624 m2
+Plantas: 5
+Año: 1936
+Perfil: Rehabilitación Histórica
+Benchmark: 2894 euros/m2
+GDV Estimado: 1444106 euros
+------------------------------
+ID: 262
+Direccion: CL LA SALLE, 2
+Referencia Catastral: 5421602XM7152B
+Superficie Total: 565 m2
+Plantas: 5
+Año: 1956
+Perfil: Optimización / BTR
+Benchmark: 3156 euros/m2
+GDV Estimado: 1426512 euros
+------------------------------
+ID: 263
+Direccion: CL TORRE NUEVA, 14
+Referencia Catastral: 6438106XM7163G
+Superficie Total: 772 m2
+Plantas: 5
+Año: 1936
+Perfil: Rehabilitación Histórica
+Benchmark: 2312 euros/m2
+GDV Estimado: 1426504 euros
+------------------------------
+ID: 264
+Direccion: CL ESCOBAR, 9
+Referencia Catastral: 6241205XM7164A
+Superficie Total: 771 m2
+Plantas: 6
+Año: 1952
+Perfil: Optimización / BTR
+Benchmark: 2312 euros/m2
+GDV Estimado: 1424192 euros
+------------------------------
+ID: 265
+Direccion: CL LOPEZ ALLUE, LUIS, 13
+Referencia Catastral: 5426904XM7152E
+Superficie Total: 690 m2
+Plantas: 3
+Año: 1936
+Perfil: Rehabilitación Histórica
+Benchmark: 2565 euros/m2
+GDV Estimado: 1415880 euros
+------------------------------
+ID: 266
+Direccion: CL PAMPLONA ESCUDERO, RAFAEL, 21
+Referencia Catastral: 5326403XM7152G
+Superficie Total: 687 m2
+Plantas: 6
+Año: 1977
+Perfil: Optimización / BTR
+Benchmark: 2565 euros/m2
+GDV Estimado: 1408185 euros
+------------------------------
+ID: 267
+Direccion: CL ARMAS, LAS, 13
+Referencia Catastral: 6339306XM7163G
+Superficie Total: 739 m2
+Plantas: 7
+Año: 1936
+Perfil: Rehabilitación Histórica
+Benchmark: 2312 euros/m2
+GDV Estimado: 1366392 euros
+------------------------------
+ID: 268
+Direccion: CL CASTELLVI, 4
+Referencia Catastral: 5931112XM7153B
+Superficie Total: 588 m2
+Plantas: 2
+Año: 1935
+Perfil: Rehabilitación Histórica
+Benchmark: 2894 euros/m2
+GDV Estimado: 1360180 euros
+------------------------------
+ID: 269
+Direccion: CL MORATA, 1
+Referencia Catastral: 6438113XM7163G
+Superficie Total: 736 m2
+Plantas: 6
+Año: 1961
+Perfil: Optimización / BTR
+Benchmark: 2312 euros/m2
+GDV Estimado: 1359456 euros
+------------------------------
+ID: 270
+Direccion: CL LOBERA, DOMINGO, 9
+Referencia Catastral: 6920726XM7162B
+Superficie Total: 749 m2
+Plantas: 5
+Año: 1969
+Perfil: Optimización / BTR
+Benchmark: 2263 euros/m2
+GDV Estimado: 1355537 euros
+------------------------------
+ID: 271
+Direccion: CL ARMAS, LAS, 65
+Referencia Catastral: 6040717XM7164A
+Superficie Total: 729 m2
+Plantas: 4
+Año: 1936
+Perfil: Rehabilitación Histórica
+Benchmark: 2312 euros/m2
+GDV Estimado: 1347896 euros
+------------------------------
+ID: 272
+Direccion: CL ARMAS, LAS, 93
+Referencia Catastral: 6040703XM7164A
+Superficie Total: 722 m2
+Plantas: 4
+Año: 1935
+Perfil: Rehabilitación Histórica
+Benchmark: 2312 euros/m2
+GDV Estimado: 1334024 euros
+------------------------------
+ID: 273
+Direccion: CL MARTIRES, 6
+Referencia Catastral: 6635413XM7163F
+Superficie Total: 722 m2
+Plantas: 7
+Año: 1900
+Perfil: Rehabilitación Histórica
+Benchmark: 2312 euros/m2
+GDV Estimado: 1334024 euros
+------------------------------
+ID: 274
+Direccion: CL ARAGON, AGUSTINA DE, 20
+Referencia Catastral: 6037319XM7163G
+Superficie Total: 568 m2
+Plantas: 6
+Año: 1936
+Perfil: Rehabilitación Histórica
+Benchmark: 2894 euros/m2
+GDV Estimado: 1313876 euros
+------------------------------
+ID: 275
+Direccion: CL MANIFESTACION, 44
+Referencia Catastral: 6639106XM7163H
+Superficie Total: 710 m2
+Plantas: 7
+Año: 1900
+Perfil: Rehabilitación Histórica
+Benchmark: 2312 euros/m2
+GDV Estimado: 1313216 euros
+------------------------------
+ID: 276
+Direccion: CL CEJADOR FRAUCA, JULIO, 6
+Referencia Catastral: 5817205XM7151F
+Superficie Total: 518 m2
+Plantas: 2
+Año: 1991
+Perfil: Patrimonial / Core
+Benchmark: 3156 euros/m2
+GDV Estimado: 1306584 euros
+------------------------------
+ID: 277
+Direccion: CL SANTA ISABEL, 5
+Referencia Catastral: 6539812XM7163H
+Superficie Total: 707 m2
+Plantas: 8
+Año: 1900
+Perfil: Rehabilitación Histórica
+Benchmark: 2312 euros/m2
+GDV Estimado: 1306280 euros
+------------------------------
+ID: 278
+Direccion: CL SAN PABLO, 42
+Referencia Catastral: 6239222XM7163G
+Superficie Total: 703 m2
+Plantas: 5
+Año: 1944
+Perfil: Optimización / BTR
+Benchmark: 2312 euros/m2
+GDV Estimado: 1299344 euros
+------------------------------
+ID: 279
+Direccion: CL ARAGON, AGUSTINA DE, 61B
+Referencia Catastral: 5838832XM7153H
+Superficie Total: 555 m2
+Plantas: 3
+Año: 1936
+Perfil: Rehabilitación Histórica
+Benchmark: 2894 euros/m2
+GDV Estimado: 1284936 euros
+------------------------------
+ID: 280
+Direccion: CL HEROISMO, 17
+Referencia Catastral: 7133620XM7173C
+Superficie Total: 656 m2
+Plantas: 3
+Año: 1936
+Perfil: Rehabilitación Histórica
+Benchmark: 2449 euros/m2
+GDV Estimado: 1283276 euros
+------------------------------
+ID: 281
+Direccion: CL SAN BLAS, 13
+Referencia Catastral: 6239705XM7163G
+Superficie Total: 690 m2
+Plantas: 7
+Año: 1930
+Perfil: Rehabilitación Histórica
+Benchmark: 2312 euros/m2
+GDV Estimado: 1276224 euros
+------------------------------
+ID: 282
+Direccion: CL OLLETA, JUSEPILLO DE, 16
+Referencia Catastral: 7335924XM7173E
+Superficie Total: 650 m2
+Plantas: 5
+Año: 1993
+Perfil: Patrimonial / Core
+Benchmark: 2449 euros/m2
+GDV Estimado: 1273480 euros
+------------------------------
+ID: 283
+Direccion: CL PIGNATELLI, RAMON, 49
+Referencia Catastral: 6036219XM7163E
+Superficie Total: 550 m2
+Plantas: 4
+Año: 1900
+Perfil: Rehabilitación Histórica
+Benchmark: 2894 euros/m2
+GDV Estimado: 1273360 euros
+------------------------------
+ID: 284
+Direccion: CL RAMON Y CAJAL, SANTIAGO, 66
+Referencia Catastral: 5934505XM7163C
+Superficie Total: 549 m2
+Plantas: 2
+Año: 1936
+Perfil: Rehabilitación Histórica
+Benchmark: 2894 euros/m2
+GDV Estimado: 1270466 euros
+------------------------------
+ID: 285
+Direccion: CL OSSAU, JOSE PELLICER, 2
+Referencia Catastral: 6736208XM7163F
+Superficie Total: 686 m2
+Plantas: 6
+Año: 1900
+Perfil: Rehabilitación Histórica
+Benchmark: 2312 euros/m2
+GDV Estimado: 1266976 euros
+------------------------------
+ID: 286
+Direccion: CL BOGGIERO, BASILIO, 35
+Referencia Catastral: 6038611XM7163G
+Superficie Total: 686 m2
+Plantas: 4
+Año: 1936
+Perfil: Rehabilitación Histórica
+Benchmark: 2312 euros/m2
+GDV Estimado: 1266976 euros
+------------------------------
+ID: 287
+Direccion: CL VIEJOS, LOS, 6
+Referencia Catastral: 7133902XM7173C
+Superficie Total: 642 m2
+Plantas: 4
+Año: 1900
+Perfil: Rehabilitación Histórica
+Benchmark: 2449 euros/m2
+GDV Estimado: 1256337 euros
+------------------------------
+ID: 288
+Direccion: CL ARA, MIGUEL DE, 35
+Referencia Catastral: 6137206XM7163E
+Superficie Total: 543 m2
+Plantas: 6
+Año: 1900
+Perfil: Rehabilitación Histórica
+Benchmark: 2894 euros/m2
+GDV Estimado: 1255996 euros
+------------------------------
+ID: 289
+Direccion: CL MANIFESTACION, 23
+Referencia Catastral: 6639205XM7163H
+Superficie Total: 675 m2
+Plantas: 6
+Año: 1946
+Perfil: Optimización / BTR
+Benchmark: 2312 euros/m2
+GDV Estimado: 1248480 euros
+------------------------------
+ID: 290
+Direccion: CL COSO, 161
+Referencia Catastral: 7237411XM7173E
+Superficie Total: 513 m2
+Plantas: 4
+Año: 1890
+Perfil: Rehabilitación Histórica
+Benchmark: 3036 euros/m2
+GDV Estimado: 1244760 euros
+------------------------------
+ID: 291
+Direccion: CL SAN PABLO, 94
+Referencia Catastral: 5939437XM7153H
+Superficie Total: 664 m2
+Plantas: 4
+Año: 1900
+Perfil: Rehabilitación Histórica
+Benchmark: 2312 euros/m2
+GDV Estimado: 1227672 euros
+------------------------------
+ID: 292
+Direccion: AV SAN JOSE, 129
+Referencia Catastral: 7019518XM7171G
+Superficie Total: 676 m2
+Plantas: 5
+Año: 1950
+Perfil: Optimización / BTR
+Benchmark: 2263 euros/m2
+GDV Estimado: 1222020 euros
+------------------------------
+ID: 293
+Direccion: CL ARMAS, LAS, 28
+Referencia Catastral: 6240919XM7164A
+Superficie Total: 661 m2
+Plantas: 6
+Año: 1940
+Perfil: Optimización / BTR
+Benchmark: 2312 euros/m2
+GDV Estimado: 1220736 euros
+------------------------------
+ID: 294
+Direccion: CL ROCASOLANO, ANTONIO, 1
+Referencia Catastral: 6324111XM7162C
+Superficie Total: 673 m2
+Plantas: 3
+Año: 1952
+Perfil: Optimización / BTR
+Benchmark: 2263 euros/m2
+GDV Estimado: 1217494 euros
+------------------------------
+ID: 295
+Direccion: CL SAN BRAULIO, 15
+Referencia Catastral: 6738118XM7163H
+Superficie Total: 658 m2
+Plantas: 5
+Año: 1936
+Perfil: Rehabilitación Histórica
+Benchmark: 2312 euros/m2
+GDV Estimado: 1216112 euros
+------------------------------
+ID: 296
+Direccion: AV SAN JOSE, 127
+Referencia Catastral: 7019519XM7171G
+Superficie Total: 668 m2
+Plantas: 4
+Año: 1950
+Perfil: Optimización / BTR
+Benchmark: 2263 euros/m2
+GDV Estimado: 1208442 euros
+------------------------------
+ID: 297
+Direccion: CL ALVAREZ, CASTA, 74
+Referencia Catastral: 6141822XM7164A
+Superficie Total: 649 m2
+Plantas: 5
+Año: 1936
+Perfil: Rehabilitación Histórica
+Benchmark: 2312 euros/m2
+GDV Estimado: 1199928 euros
+------------------------------
+ID: 298
+Direccion: CL RECONQUISTA, 10
+Referencia Catastral: 7032204XM7173A
+Superficie Total: 494 m2
+Plantas: 7
+Año: 1868
+Perfil: Rehabilitación Histórica
+Benchmark: 3036 euros/m2
+GDV Estimado: 1199220 euros
+------------------------------
+ID: 299
+Direccion: DS ALMOZARA SOTO ALMOZARA, 9334D
+Referencia Catastral: 001900700XM71E
+Superficie Total: 647 m2
+Plantas: 1
+Año: 1975
+Perfil: Optimización / BTR
+Benchmark: 2312 euros/m2
+GDV Estimado: 1195304 euros
+------------------------------
+ID: 300
+Direccion: PS PAMPLONA, 3I
+Referencia Catastral: 5830807XM7163A
+Superficie Total: 514 m2
+Plantas: 2
+Año: 1943
+Perfil: Optimización / BTR
+Benchmark: 2894 euros/m2
+GDV Estimado: 1189434 euros
+------------------------------
+ID: 301
+Direccion: CL SAN PABLO, 65
+Referencia Catastral: 6039804XM7163G
+Superficie Total: 640 m2
+Plantas: 3
+Año: 1900
+Perfil: Rehabilitación Histórica
+Benchmark: 2312 euros/m2
+GDV Estimado: 1183744 euros
+------------------------------
+ID: 302
+Direccion: CL PORCELL, JUAN, 6
+Referencia Catastral: 6634702XM7163D
+Superficie Total: 486 m2
+Plantas: 5
+Año: 2009
+Perfil: Patrimonial / Core
+Benchmark: 3036 euros/m2
+GDV Estimado: 1177968 euros
+------------------------------
+ID: 303
+Direccion: CL BOGGIERO, BASILIO, 43
+Referencia Catastral: 6038608XM7163G
+Superficie Total: 637 m2
+Plantas: 4
+Año: 1936
+Perfil: Rehabilitación Histórica
+Benchmark: 2312 euros/m2
+GDV Estimado: 1176808 euros
+------------------------------
+ID: 304
+Direccion: CL CIPRES, 6
+Referencia Catastral: 6438415XM7163G
+Superficie Total: 637 m2
+Plantas: 6
+Año: 1900
+Perfil: Rehabilitación Histórica
+Benchmark: 2312 euros/m2
+GDV Estimado: 1176808 euros
+------------------------------
+ID: 305
+Direccion: CL SAN PABLO, 8
+Referencia Catastral: 6239717XM7163G
+Superficie Total: 633 m2
+Plantas: 6
+Año: 1930
+Perfil: Rehabilitación Histórica
+Benchmark: 2312 euros/m2
+GDV Estimado: 1169872 euros
+------------------------------
+ID: 306
+Direccion: CL BOGGIERO, BASILIO, 96
+Referencia Catastral: 5939935XM7153H
+Superficie Total: 632 m2
+Plantas: 4
+Año: 1936
+Perfil: Rehabilitación Histórica
+Benchmark: 2312 euros/m2
+GDV Estimado: 1167560 euros
+------------------------------
+ID: 307
+Direccion: CL ESTREMIANA, 36
+Referencia Catastral: 6017621XM7161E
+Superficie Total: 462 m2
+Plantas: 3
+Año: 1957
+Perfil: Optimización / BTR
+Benchmark: 3156 euros/m2
+GDV Estimado: 1164564 euros
+------------------------------
+ID: 308
+Direccion: CL ARMAS, LAS, 31
+Referencia Catastral: 6239311XM7164A
+Superficie Total: 624 m2
+Plantas: 6
+Año: 1910
+Perfil: Rehabilitación Histórica
+Benchmark: 2312 euros/m2
+GDV Estimado: 1153688 euros
+------------------------------
+ID: 309
+Direccion: CL CANDALIJA, ANTONIO, 12
+Referencia Catastral: 6437504XM7163G
+Superficie Total: 620 m2
+Plantas: 7
+Año: 1936
+Perfil: Rehabilitación Histórica
+Benchmark: 2312 euros/m2
+GDV Estimado: 1146752 euros
+------------------------------
+ID: 310
+Direccion: CL ZAMORAY, JOSE, 4
+Referencia Catastral: 6037233XM7163E
+Superficie Total: 495 m2
+Plantas: 9
+Año: 1936
+Perfil: Rehabilitación Histórica
+Benchmark: 2894 euros/m2
+GDV Estimado: 1146024 euros
+------------------------------
+ID: 311
+Direccion: CL RUFAS, 11
+Referencia Catastral: 6833911XM7163D
+Superficie Total: 472 m2
+Plantas: 6
+Año: 1935
+Perfil: Rehabilitación Histórica
+Benchmark: 3036 euros/m2
+GDV Estimado: 1144572 euros
+------------------------------
+ID: 312
+Direccion: CL PRUDENCIO, 10
+Referencia Catastral: 6539302XM7163H
+Superficie Total: 613 m2
+Plantas: 7
+Año: 1925
+Perfil: Rehabilitación Histórica
+Benchmark: 2312 euros/m2
+GDV Estimado: 1132880 euros
+------------------------------
+ID: 313
+Direccion: CL ARAGON, AGUSTINA DE, 32
+Referencia Catastral: 6037325XM7163G
+Superficie Total: 488 m2
+Plantas: 4
+Año: 1882
+Perfil: Rehabilitación Histórica
+Benchmark: 2894 euros/m2
+GDV Estimado: 1128660 euros
+------------------------------
+ID: 314
+Direccion: CL HEROISMO, 40
+Referencia Catastral: 7033709XM7173C
+Superficie Total: 575 m2
+Plantas: 4
+Año: 1936
+Perfil: Rehabilitación Histórica
+Benchmark: 2449 euros/m2
+GDV Estimado: 1126540 euros
+------------------------------
+ID: 315
+Direccion: CL PRUDENCIO, 18
+Referencia Catastral: 6639203XM7163H
+Superficie Total: 603 m2
+Plantas: 8
+Año: 1900
+Perfil: Rehabilitación Histórica
+Benchmark: 2312 euros/m2
+GDV Estimado: 1114384 euros
+------------------------------
+ID: 316
+Direccion: CL ESPINO, 4
+Referencia Catastral: 7035802XM7173E
+Superficie Total: 456 m2
+Plantas: 5
+Año: 2011
+Perfil: Patrimonial / Core
+Benchmark: 3036 euros/m2
+GDV Estimado: 1105104 euros
+------------------------------
+ID: 317
+Direccion: CL CASAÑAL Y ZAPATERO, D., 20
+Referencia Catastral: 5544101XM7154D
+Superficie Total: 594 m2
+Plantas: 4
+Año: 1957
+Perfil: Optimización / BTR
+Benchmark: 2312 euros/m2
+GDV Estimado: 1098200 euros
+------------------------------
+ID: 318
+Direccion: CL FITA, BERNARDO, 23
+Referencia Catastral: 5728401XM7152H
+Superficie Total: 534 m2
+Plantas: 4
+Año: 1936
+Perfil: Rehabilitación Histórica
+Benchmark: 2565 euros/m2
+GDV Estimado: 1095255 euros
+------------------------------
+ID: 319
+Direccion: CL TEMPLE, 27
+Referencia Catastral: 6439804XM7163G
+Superficie Total: 588 m2
+Plantas: 8
+Año: 1936
+Perfil: Rehabilitación Histórica
+Benchmark: 2312 euros/m2
+GDV Estimado: 1086640 euros
+------------------------------
+ID: 320
+Direccion: PS RUISEÑORES, 45
+Referencia Catastral: 5915301XM7151F
+Superficie Total: 431 m2
+Plantas: 1
+Año: 1949
+Perfil: Optimización / BTR
+Benchmark: 3156 euros/m2
+GDV Estimado: 1085664 euros
+------------------------------
+ID: 321
+Direccion: CL SUPERVIA, MARIANO, 13
+Referencia Catastral: 5621507XM7152B
+Superficie Total: 429 m2
+Plantas: 2
+Año: 1941
+Perfil: Optimización / BTR
+Benchmark: 3156 euros/m2
+GDV Estimado: 1082508 euros
+------------------------------
+ID: 322
+Direccion: CL ARAGON, AGUSTINA DE, 6
+Referencia Catastral: 6137303XM7163G
+Superficie Total: 466 m2
+Plantas: 5
+Año: 1860
+Perfil: Rehabilitación Histórica
+Benchmark: 2894 euros/m2
+GDV Estimado: 1076568 euros
+------------------------------
+ID: 323
+Direccion: CL ESTEBANES, 10
+Referencia Catastral: 6636903XM7163F
+Superficie Total: 574 m2
+Plantas: 6
+Año: 1936
+Perfil: Rehabilitación Histórica
+Benchmark: 2312 euros/m2
+GDV Estimado: 1061208 euros
+------------------------------
+ID: 324
+Direccion: CL ESTREMIANA, 28
+Referencia Catastral: 6017617XM7161E
+Superficie Total: 421 m2
+Plantas: 2
+Año: 1956
+Perfil: Optimización / BTR
+Benchmark: 3156 euros/m2
+GDV Estimado: 1060416 euros
+------------------------------
+ID: 325
+Direccion: CL BOGGIERO, BASILIO, 58
+Referencia Catastral: 6039829XM7163G
+Superficie Total: 572 m2
+Plantas: 4
+Año: 1936
+Perfil: Rehabilitación Histórica
+Benchmark: 2312 euros/m2
+GDV Estimado: 1056584 euros
+------------------------------
+ID: 326
+Direccion: CL SAN BLAS, 93
+Referencia Catastral: 5939406XM7154B
+Superficie Total: 572 m2
+Plantas: 5
+Año: 1936
+Perfil: Rehabilitación Histórica
+Benchmark: 2312 euros/m2
+GDV Estimado: 1056584 euros
+------------------------------
+ID: 327
+Direccion: CL CINEGIO, 6
+Referencia Catastral: 6635418XM7163F
+Superficie Total: 571 m2
+Plantas: 9
+Año: 1936
+Perfil: Rehabilitación Histórica
+Benchmark: 2312 euros/m2
+GDV Estimado: 1054272 euros
+------------------------------
+ID: 328
+Direccion: CL CEJADOR FRAUCA, JULIO, 10
+Referencia Catastral: 5817207XM7151F
+Superficie Total: 418 m2
+Plantas: 1
+Año: 1950
+Perfil: Optimización / BTR
+Benchmark: 3156 euros/m2
+GDV Estimado: 1054104 euros
+------------------------------
+ID: 329
+Direccion: CL ESTREMIANA, 38
+Referencia Catastral: 6017622XM7161E
+Superficie Total: 414 m2
+Plantas: 1
+Año: 1957
+Perfil: Optimización / BTR
+Benchmark: 3156 euros/m2
+GDV Estimado: 1044636 euros
+------------------------------
+ID: 330
+Direccion: CL LANDA, 7
+Referencia Catastral: 5245115XM7154E
+Superficie Total: 560 m2
+Plantas: 4
+Año: 1998
+Perfil: Patrimonial / Core
+Benchmark: 2312 euros/m2
+GDV Estimado: 1035776 euros
+------------------------------
+ID: 331
+Direccion: CL ARENAL, CONCEPCION, 9
+Referencia Catastral: 5225521XM7152E
+Superficie Total: 503 m2
+Plantas: 4
+Año: 1927
+Perfil: Rehabilitación Histórica
+Benchmark: 2565 euros/m2
+GDV Estimado: 1031130 euros
+------------------------------
+ID: 332
+Direccion: CL ERAS, 12
+Referencia Catastral: 7232406XM7173C
+Superficie Total: 525 m2
+Plantas: 4
+Año: 1936
+Perfil: Rehabilitación Histórica
+Benchmark: 2449 euros/m2
+GDV Estimado: 1028580 euros
+------------------------------
+ID: 333
+Direccion: CL ARAGON, AGUSTINA DE, 31
+Referencia Catastral: 6037208XM7163G
+Superficie Total: 444 m2
+Plantas: 3
+Año: 1986
+Perfil: Patrimonial / Core
+Benchmark: 2894 euros/m2
+GDV Estimado: 1027370 euros
+------------------------------
+ID: 334
+Direccion: CL ESTREMIANA, 34
+Referencia Catastral: 6017620XM7161E
+Superficie Total: 404 m2
+Plantas: 2
+Año: 1957
+Perfil: Optimización / BTR
+Benchmark: 3156 euros/m2
+GDV Estimado: 1019388 euros
+------------------------------
+ID: 335
+Direccion: CL ALCALA, 18
+Referencia Catastral: 7233810XM7173C
+Superficie Total: 519 m2
+Plantas: 4
+Año: 1900
+Perfil: Rehabilitación Histórica
+Benchmark: 2449 euros/m2
+GDV Estimado: 1016335 euros
+------------------------------
+ID: 336
+Direccion: CL FITA, BERNARDO, 3
+Referencia Catastral: 5728409XM7152H
+Superficie Total: 493 m2
+Plantas: 3
+Año: 1936
+Perfil: Rehabilitación Histórica
+Benchmark: 2565 euros/m2
+GDV Estimado: 1010610 euros
+------------------------------
+ID: 337
+Direccion: AV CESAR AUGUSTO, 83
+Referencia Catastral: 6339313XM7163G
+Superficie Total: 544 m2
+Plantas: 4
+Año: 1900
+Perfil: Rehabilitación Histórica
+Benchmark: 2312 euros/m2
+GDV Estimado: 1005720 euros
+------------------------------
+ID: 338
+Direccion: CL ARMAS, LAS, 39
+Referencia Catastral: 6239307XM7164A
+Superficie Total: 541 m2
+Plantas: 4
+Año: 1910
+Perfil: Rehabilitación Histórica
+Benchmark: 2312 euros/m2
+GDV Estimado: 998784 euros
+------------------------------
+ID: 339
+Direccion: CL AVILA, 29
+Referencia Catastral: 5130903XM7153A
+Superficie Total: 486 m2
+Plantas: 3
+Año: 1968
+Perfil: Optimización / BTR
+Benchmark: 2565 euros/m2
+GDV Estimado: 995220 euros
+------------------------------
+ID: 340
+Direccion: CL TRINIDAD, 5
+Referencia Catastral: 7237413XM7173E
+Superficie Total: 408 m2
+Plantas: 5
+Año: 1900
+Perfil: Rehabilitación Histórica
+Benchmark: 3036 euros/m2
+GDV Estimado: 989736 euros
+------------------------------
+ID: 341
+Direccion: CL ARMAS, LAS, 92
+Referencia Catastral: 6140244XM7164A
+Superficie Total: 533 m2
+Plantas: 3
+Año: 1936
+Perfil: Rehabilitación Histórica
+Benchmark: 2312 euros/m2
+GDV Estimado: 984912 euros
+------------------------------
+ID: 342
+Direccion: CL PALOMAR, ALEJANDRO, 16
+Referencia Catastral: 7333301XM7173C
+Superficie Total: 502 m2
+Plantas: 4
+Año: 1700
+Perfil: Rehabilitación Histórica
+Benchmark: 2449 euros/m2
+GDV Estimado: 982049 euros
+------------------------------
+ID: 343
+Direccion: CL LIBERTAD, 12
+Referencia Catastral: 6636918XM7163F
+Superficie Total: 530 m2
+Plantas: 7
+Año: 1936
+Perfil: Rehabilitación Histórica
+Benchmark: 2312 euros/m2
+GDV Estimado: 980288 euros
+------------------------------
+ID: 344
+Direccion: CL JAIME I, 13
+Referencia Catastral: 6635403XM7163F
+Superficie Total: 529 m2
+Plantas: 8
+Año: 1930
+Perfil: Rehabilitación Histórica
+Benchmark: 2312 euros/m2
+GDV Estimado: 977976 euros
+------------------------------
+ID: 345
+Direccion: CL BOGGIERO, BASILIO, 134
+Referencia Catastral: 5839330XM7153H
+Superficie Total: 528 m2
+Plantas: 4
+Año: 1900
+Perfil: Rehabilitación Histórica
+Benchmark: 2312 euros/m2
+GDV Estimado: 975664 euros
+------------------------------
+ID: 346
+Direccion: CL ESTEBANES, 9T
+Referencia Catastral: 6636512XM7163F
+Superficie Total: 517 m2
+Plantas: 5
+Año: 1900
+Perfil: Rehabilitación Histórica
+Benchmark: 2312 euros/m2
+GDV Estimado: 954856 euros
+------------------------------
+ID: 347
+Direccion: CL ARMAS, LAS, 18
+Referencia Catastral: 6340829XM7164A
+Superficie Total: 509 m2
+Plantas: 3
+Año: 1900
+Perfil: Rehabilitación Histórica
+Benchmark: 2312 euros/m2
+GDV Estimado: 940984 euros
+------------------------------
+ID: 348
+Direccion: CL SAN FELIX, 4
+Referencia Catastral: 6736407XM7163F
+Superficie Total: 505 m2
+Plantas: 6
+Año: 1900
+Perfil: Rehabilitación Histórica
+Benchmark: 2312 euros/m2
+GDV Estimado: 934048 euros
+------------------------------
+ID: 349
+Direccion: AV CORTES, HERNAN, 30
+Referencia Catastral: 5730103XM7153B
+Superficie Total: 452 m2
+Plantas: 4
+Año: 1939
+Perfil: Rehabilitación Histórica
+Benchmark: 2565 euros/m2
+GDV Estimado: 925965 euros
+------------------------------
+ID: 350
+Direccion: CL ARMAS, LAS, 35
+Referencia Catastral: 6239309XM7164A
+Superficie Total: 498 m2
+Plantas: 5
+Año: 1910
+Perfil: Rehabilitación Histórica
+Benchmark: 2312 euros/m2
+GDV Estimado: 920176 euros
+------------------------------
+ID: 351
+Direccion: CL ARA, MIGUEL DE, 28
+Referencia Catastral: 6038616XM7163G
+Superficie Total: 497 m2
+Plantas: 5
+Año: 1992
+Perfil: Patrimonial / Core
+Benchmark: 2312 euros/m2
+GDV Estimado: 917864 euros
+------------------------------
+ID: 352
+Direccion: CL ARMAS, LAS, 63
+Referencia Catastral: 6040718XM7164A
+Superficie Total: 491 m2
+Plantas: 3
+Año: 1936
+Perfil: Rehabilitación Histórica
+Benchmark: 2312 euros/m2
+GDV Estimado: 906304 euros
+------------------------------
+ID: 353
+Direccion: CL FIGUERAS, 1
+Referencia Catastral: 7529625XM7172H
+Superficie Total: 459 m2
+Plantas: 1
+Año: 2003
+Perfil: Patrimonial / Core
+Benchmark: 2449 euros/m2
+GDV Estimado: 898783 euros
+------------------------------
+ID: 354
+Direccion: CL ALVAREZ, CASTA, 19
+Referencia Catastral: 6340805XM7164A
+Superficie Total: 484 m2
+Plantas: 5
+Año: 1900
+Perfil: Rehabilitación Histórica
+Benchmark: 2312 euros/m2
+GDV Estimado: 894744 euros
+------------------------------
+ID: 355
+Direccion: CL CACERES, 20
+Referencia Catastral: 7019809XM7171G
+Superficie Total: 494 m2
+Plantas: 4
+Año: 1964
+Perfil: Optimización / BTR
+Benchmark: 2263 euros/m2
+GDV Estimado: 893885 euros
+------------------------------
+ID: 356
+Direccion: CL BOGGIERO, BASILIO, 91
+Referencia Catastral: 5938304XM7153H
+Superficie Total: 483 m2
+Plantas: 4
+Año: 1936
+Perfil: Rehabilitación Histórica
+Benchmark: 2312 euros/m2
+GDV Estimado: 892432 euros
+------------------------------
+ID: 357
+Direccion: CL HEROISMO, 42
+Referencia Catastral: 7033710XM7173C
+Superficie Total: 455 m2
+Plantas: 4
+Año: 1900
+Perfil: Rehabilitación Histórica
+Benchmark: 2449 euros/m2
+GDV Estimado: 891436 euros
+------------------------------
+ID: 358
+Direccion: CL CORTES, LAS, 6
+Referencia Catastral: 5245106XM7154E
+Superficie Total: 480 m2
+Plantas: 4
+Año: 1968
+Perfil: Optimización / BTR
+Benchmark: 2312 euros/m2
+GDV Estimado: 887808 euros
+------------------------------
+ID: 359
+Direccion: CL SAN ANTONIO MARIA CLARET, 62
+Referencia Catastral: 5326806XM7152E
+Superficie Total: 430 m2
+Plantas: 4
+Año: 1947
+Perfil: Optimización / BTR
+Benchmark: 2565 euros/m2
+GDV Estimado: 882360 euros
+------------------------------
+ID: 360
+Direccion: CL RUSIÑOL, SANTIAGO, 36
+Referencia Catastral: 7629610XM7172H
+Superficie Total: 450 m2
+Plantas: 2
+Año: 1928
+Perfil: Rehabilitación Histórica
+Benchmark: 2449 euros/m2
+GDV Estimado: 881640 euros
+------------------------------
+ID: 361
+Direccion: CL VIEJOS, LOS, 16
+Referencia Catastral: 7133704XM7173C
+Superficie Total: 439 m2
+Plantas: 4
+Año: 1900
+Perfil: Rehabilitación Histórica
+Benchmark: 2449 euros/m2
+GDV Estimado: 859599 euros
+------------------------------
+ID: 362
+Direccion: CL SANTA ISABEL, 6
+Referencia Catastral: 6538314XM7163H
+Superficie Total: 460 m2
+Plantas: 6
+Año: 1936
+Perfil: Rehabilitación Histórica
+Benchmark: 2312 euros/m2
+GDV Estimado: 850816 euros
+------------------------------
+ID: 363
+Direccion: CL SAN PABLO, 54
+Referencia Catastral: 6039517XM7163G
+Superficie Total: 457 m2
+Plantas: 5
+Año: 1900
+Perfil: Rehabilitación Histórica
+Benchmark: 2312 euros/m2
+GDV Estimado: 843880 euros
+------------------------------
+ID: 364
+Direccion: CL BARRIOVERDE, 24
+Referencia Catastral: 7334413XM7173C
+Superficie Total: 430 m2
+Plantas: 4
+Año: 1880
+Perfil: Rehabilitación Histórica
+Benchmark: 2449 euros/m2
+GDV Estimado: 842456 euros
+------------------------------
+ID: 365
+Direccion: CL BOGGIERO, BASILIO, 133
+Referencia Catastral: 5739704XM7153H
+Superficie Total: 456 m2
+Plantas: 3
+Año: 1900
+Perfil: Rehabilitación Histórica
+Benchmark: 2312 euros/m2
+GDV Estimado: 841568 euros
+------------------------------
+ID: 366
+Direccion: AV CESAR AUGUSTO, 74
+Referencia Catastral: 6338927XM7163G
+Superficie Total: 455 m2
+Plantas: 6
+Año: 1986
+Perfil: Patrimonial / Core
+Benchmark: 2312 euros/m2
+GDV Estimado: 841568 euros
+------------------------------
+ID: 367
+Direccion: DS ALMOZARA, 9231
+Referencia Catastral: 000302700XM71E
+Superficie Total: 453 m2
+Plantas: 1
+Año: 1982
+Perfil: Patrimonial / Core
+Benchmark: 2312 euros/m2
+GDV Estimado: 836944 euros
+------------------------------
+ID: 368
+Direccion: CL BURETA, 10
+Referencia Catastral: 6338908XM7163G
+Superficie Total: 448 m2
+Plantas: 5
+Año: 1936
+Perfil: Rehabilitación Histórica
+Benchmark: 2312 euros/m2
+GDV Estimado: 827696 euros
+------------------------------
+ID: 369
+Direccion: CL SAN PABLO, 58
+Referencia Catastral: 6039519XM7163G
+Superficie Total: 445 m2
+Plantas: 6
+Año: 1930
+Perfil: Rehabilitación Histórica
+Benchmark: 2312 euros/m2
+GDV Estimado: 823072 euros
+------------------------------
+ID: 370
+Direccion: CL MAYORAL, 14
+Referencia Catastral: 5938334XM7153H
+Superficie Total: 444 m2
+Plantas: 4
+Año: 1975
+Perfil: Optimización / BTR
+Benchmark: 2312 euros/m2
+GDV Estimado: 820760 euros
+------------------------------
+ID: 371
+Direccion: CL ALVAREZ, CASTA, 51
+Referencia Catastral: 6240905XM7164A
+Superficie Total: 443 m2
+Plantas: 4
+Año: 1936
+Perfil: Rehabilitación Histórica
+Benchmark: 2312 euros/m2
+GDV Estimado: 818448 euros
+------------------------------
+ID: 372
+Direccion: CL CONTAMINA, 8
+Referencia Catastral: 6438604XM7163H
+Superficie Total: 443 m2
+Plantas: 5
+Año: 1936
+Perfil: Rehabilitación Histórica
+Benchmark: 2312 euros/m2
+GDV Estimado: 818448 euros
+------------------------------
+ID: 373
+Direccion: CL MAZO, JUAN BAUTISTA DEL, 26
+Referencia Catastral: 4742511XM7144D
+Superficie Total: 440 m2
+Plantas: 2
+Año: 1960
+Perfil: Optimización / BTR
+Benchmark: 2312 euros/m2
+GDV Estimado: 813824 euros
+------------------------------
+ID: 374
+Direccion: CL CONTAMINA, 3
+Referencia Catastral: 6538309XM7163G
+Superficie Total: 437 m2
+Plantas: 4
+Año: 1904
+Perfil: Rehabilitación Histórica
+Benchmark: 2312 euros/m2
+GDV Estimado: 806888 euros
+------------------------------
+ID: 375
+Direccion: CL SAN PABLO, 77
+Referencia Catastral: 5939917XM7153H
+Superficie Total: 433 m2
+Plantas: 3
+Año: 1936
+Perfil: Rehabilitación Histórica
+Benchmark: 2312 euros/m2
+GDV Estimado: 799952 euros
+------------------------------
+ID: 376
+Direccion: CL TORRE NUEVA, 15
+Referencia Catastral: 6438408XM7163G
+Superficie Total: 429 m2
+Plantas: 7
+Año: 1900
+Perfil: Rehabilitación Histórica
+Benchmark: 2312 euros/m2
+GDV Estimado: 793016 euros
+------------------------------
+ID: 377
+Direccion: CL CEREZO, MARIANO, 47
+Referencia Catastral: 5939425XM7163G
+Superficie Total: 429 m2
+Plantas: 5
+Año: 1900
+Perfil: Rehabilitación Histórica
+Benchmark: 2312 euros/m2
+GDV Estimado: 793016 euros
+------------------------------
+ID: 378
+Direccion: CL ERAS, 3
+Referencia Catastral: 7233819XM7173C
+Superficie Total: 404 m2
+Plantas: 5
+Año: 2013
+Perfil: Patrimonial / Core
+Benchmark: 2449 euros/m2
+GDV Estimado: 791027 euros
+------------------------------
+ID: 379
+Direccion: CL LOSCOS, FRANCISCO, 13
+Referencia Catastral: 6539808XM7163H
+Superficie Total: 427 m2
+Plantas: 8
+Año: 1936
+Perfil: Rehabilitación Histórica
+Benchmark: 2312 euros/m2
+GDV Estimado: 788392 euros
+------------------------------
+ID: 380
+Direccion: CL ERAS, 14
+Referencia Catastral: 7232407XM7173C
+Superficie Total: 402 m2
+Plantas: 3
+Año: 1800
+Perfil: Rehabilitación Histórica
+Benchmark: 2449 euros/m2
+GDV Estimado: 786129 euros
+------------------------------
+ID: 381
+Direccion: CL PEDRO I DE ARAGON, 10
+Referencia Catastral: 4942714XM7144B
+Superficie Total: 425 m2
+Plantas: 5
+Año: 2004
+Perfil: Patrimonial / Core
+Benchmark: 2312 euros/m2
+GDV Estimado: 786080 euros
+------------------------------
+ID: 382
+Direccion: CL ARMAS, LAS, 16
+Referencia Catastral: 6340828XM7164A
+Superficie Total: 424 m2
+Plantas: 4
+Año: 1900
+Perfil: Rehabilitación Histórica
+Benchmark: 2312 euros/m2
+GDV Estimado: 783768 euros
+------------------------------
+ID: 383
+Direccion: AV CESAR AUGUSTO, 84
+Referencia Catastral: 6338930XM7163G
+Superficie Total: 420 m2
+Plantas: 6
+Año: 1936
+Perfil: Rehabilitación Histórica
+Benchmark: 2312 euros/m2
+GDV Estimado: 776832 euros
+------------------------------
+ID: 384
+Direccion: CL SAN BLAS, 48
+Referencia Catastral: 6040726XM7163G
+Superficie Total: 420 m2
+Plantas: 4
+Año: 1936
+Perfil: Rehabilitación Histórica
+Benchmark: 2312 euros/m2
+GDV Estimado: 776832 euros
+------------------------------
+ID: 385
+Direccion: CJ SACRAMENTO, 4
+Referencia Catastral: 6239325XM7163G
+Superficie Total: 412 m2
+Plantas: 4
+Año: 2009
+Perfil: Patrimonial / Core
+Benchmark: 2312 euros/m2
+GDV Estimado: 760648 euros
+------------------------------
+ID: 386
+Direccion: CL OSSAU, JOSE PELLICER, 7
+Referencia Catastral: 6636508XM7163F
+Superficie Total: 406 m2
+Plantas: 5
+Año: 1989
+Perfil: Patrimonial / Core
+Benchmark: 2312 euros/m2
+GDV Estimado: 749088 euros
+------------------------------
+ID: 387
+Direccion: CL SAN PABLO, 119
+Referencia Catastral: 5839318XM7153H
+Superficie Total: 402 m2
+Plantas: 2
+Año: 1900
+Perfil: Rehabilitación Histórica
+Benchmark: 2312 euros/m2
+GDV Estimado: 742152 euros
+------------------------------
+ID: 388
+Direccion: CL JAIME I, 11
+Referencia Catastral: 6635404XM7163F
+Superficie Total: 402 m2
+Plantas: 6
+Año: 1900
+Perfil: Rehabilitación Histórica
+Benchmark: 2312 euros/m2
+GDV Estimado: 742152 euros
+------------------------------
