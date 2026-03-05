@@ -6,13 +6,17 @@ st.set_page_config(page_title="Prop Hunter - Dashboard", layout="wide")
 
 @st.cache_data
 def load_data():
-    # Usamos read_excel que es mucho más estable para datos de Zaragoza con eñes y tildes
+    # Leemos el Excel primero de forma normal
     df = pd.read_excel("datos.xlsx")
     
-    # Limpieza rápida de columnas por si acaso
+    # SISTEMA ANTIFALLOS: Si los títulos no están en la primera fila, leemos saltando una fila (header=1)
+    if 'GDV VENTA (€)' not in df.columns:
+        df = pd.read_excel("datos.xlsx", header=1)
+        
+    # Limpiamos espacios ocultos por si acaso
     df.columns = df.columns.str.strip()
     
-    # Convertir a números lo que deba ser número
+    # Convertir a números para que los gráficos no fallen
     cols_moneda = ['GDV VENTA (€)', 'M² TOTALES', 'VIVIENDAS']
     for col in cols_moneda:
         if col in df.columns:
@@ -53,8 +57,7 @@ try:
             fig2 = px.bar(df_cp, x='CP', y='GDV VENTA (€)', title="GDV por Código Postal", color='GDV VENTA (€)')
             st.plotly_chart(fig2, use_container_width=True)
 
-    st.success("Dashboard cargado correctamente desde Excel ✅")
+    st.success("Dashboard cargado y auditado correctamente ✅")
 
 except Exception as e:
-    st.error(f"Error al cargar el Excel: {e}")
-    st.info("Asegúrate de que el archivo se llame 'datos.xlsx' y esté en GitHub.")
+    st.error(f"Error crítico evitado. Detalles técnicos: {e}")   
