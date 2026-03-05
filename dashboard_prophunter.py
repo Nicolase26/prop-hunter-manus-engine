@@ -12,7 +12,7 @@ st.markdown("---")
 @st.cache_data
 def load_data():
     # Cargamos la pestaña del listado financiero
-    df = pd.read_csv("datos.csv", encoding="latin1")
+    df = pd.read_csv("datos.csv", encoding="utf-8-sig")
     # Limpieza básica de números
     df['GDV VENTA (€)'] = pd.to_numeric(df['GDV VENTA (€)'], errors='coerce')
     # Añadimos la columna de Auditoría que pactamos
@@ -61,5 +61,6 @@ with c2:
 # --- BLOQUE 3: TABLA DE DATOS ---
 st.subheader("Listado Detallado de Activos")
 st.dataframe(df_filtered[['ID_OFICIAL', 'DIRECCIÓN', 'CP', 'VIVIENDAS', 'GDV VENTA (€)', 'ESTADO_AUDITORIA']], use_container_width=True)
+
 
 
