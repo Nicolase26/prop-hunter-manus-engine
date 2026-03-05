@@ -2,66 +2,59 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 
-# Configuración de la página
-st.set_page_config(page_title="Prop Hunter - Dashboard Inversión", layout="wide")
+st.set_page_config(page_title="Prop Hunter - Dashboard", layout="wide")
 
-st.title("🚀 Prop Hunter | Zaragoza Real Estate Dashboard V10")
-st.markdown("---")
-
-# Carga de datos (Usando el nombre de tu archivo)
 @st.cache_data
 def load_data():
-    # Cargamos la pestaña del listado financiero
-    df = pd.read_csv("datos.csv", encoding="latin1", errors="ignore", sep=None, engine="python")
-    # Limpieza básica de números
-    df['GDV VENTA (€)'] = pd.to_numeric(df['GDV VENTA (€)'], errors='coerce')
-    # Añadimos la columna de Auditoría que pactamos
-    if 'ESTADO_AUDITORIA' not in df.columns:
-        df['ESTADO_AUDITORIA'] = 'En Estudio'
+    # Usamos read_excel que es mucho más estable para datos de Zaragoza con eñes y tildes
+    df = pd.read_excel("datos.xlsx")
+    
+    # Limpieza rápida de columnas por si acaso
+    df.columns = df.columns.str.strip()
+    
+    # Convertir a números lo que deba ser número
+    cols_moneda = ['GDV VENTA (€)', 'M² TOTALES', 'VIVIENDAS']
+    for col in cols_moneda:
+        if col in df.columns:
+            df[col] = pd.to_numeric(df[col], errors='coerce').fillna(0)
     return df
 
-df = load_data()
+try:
+    df = load_data()
 
-# --- FILTROS LATERALES ---
-st.sidebar.header("Filtros de Búsqueda")
-zona = st.sidebar.multiselect("Filtrar por CP:", options=df["CP"].unique(), default=df["CP"].unique())
-perfil = st.sidebar.multiselect("Perfil de Activo:", options=df["PERFIL DE ACTIVO"].unique(), default=df["PERFIL DE ACTIVO"].unique())
+    st.title("🚀 Prop Hunter - Análisis de Cartera")
+    st.markdown("---")
 
-df_filtered = df[(df["CP"].isin(zona)) & (df["PERFIL DE ACTIVO"].isin(perfil))]
+    # KPIs Principales
+    c1, c2, c3 = st.columns(3)
+    with c1:
+        st.metric("Total Activos", f"{len(df)}")
+    with c2:
+        total_gdv = df['GDV VENTA (€)'].sum()
+        st.metric("GDV Total", f"{total_gdv:,.0f} €")
+    with c3:
+        total_m2 = df['M² TOTALES'].sum()
+        st.metric("Superficie Total", f"{total_m2:,.0f} m²")
 
-# --- BLOQUE 1: KPIs ---
-col1, col2, col3, col4 = st.columns(4)
-with col1:
-    st.metric("Total Activos", f"{len(df_filtered)}")
-with col2:
-    total_gdv = df_filtered['GDV VENTA (€)'].sum() / 1e6
-    st.metric("GDV Total", f"{total_gdv:,.1f} M€")
-with col3:
-    total_m2 = df_filtered['M² TOTALES'].sum()
-    st.metric("Superficie Total", f"{total_m2:,.0f} m²")
-with col4:
-    total_viviendas = df_filtered['VIVIENDAS'].sum()
-    st.metric("Potencial Viviendas", f"{total_viviendas:,.0f} Uds")
+    st.markdown("---")
 
-st.markdown("---")
+    # Gráficos
+    col_a, col_b = st.columns(2)
+    
+    with col_a:
+        if 'PERFIL DE ACTIVO' in df.columns:
+            fig1 = px.pie(df, names='PERFIL DE ACTIVO', title="Distribución por Perfil")
+            st.plotly_chart(fig1, use_container_width=True)
 
-# --- BLOQUE 2: GRÁFICOS ---
-c1, c2 = st.columns(2)
+    with col_b:
+        if 'CP' in df.columns:
+            # Agrupamos por CP para ver el volumen
+            df_cp = df.groupby('CP')['GDV VENTA (€)'].sum().reset_index()
+            fig2 = px.bar(df_cp, x='CP', y='GDV VENTA (€)', title="GDV por Código Postal", color='GDV VENTA (€)')
+            st.plotly_chart(fig2, use_container_width=True)
 
-with c1:
-    st.subheader("Distribución por Perfil de Activo")
-    fig_perfil = px.pie(df_filtered, names='PERFIL DE ACTIVO', values='GDV VENTA (€)', hole=0.4)
-    st.plotly_chart(fig_perfil, use_container_width=True)
+    st.success("Dashboard cargado correctamente desde Excel ✅")
 
-with c2:
-    st.subheader("Inversión por Código Postal")
-    fig_cp = px.bar(df_filtered, x='CP', y='GDV VENTA (€)', color='CP', title="GDV por Zona")
-    st.plotly_chart(fig_cp, use_container_width=True)
-
-# --- BLOQUE 3: TABLA DE DATOS ---
-st.subheader("Listado Detallado de Activos")
-st.dataframe(df_filtered[['ID_OFICIAL', 'DIRECCIÓN', 'CP', 'VIVIENDAS', 'GDV VENTA (€)', 'ESTADO_AUDITORIA']], use_container_width=True)
-
-
-
-
+except Exception as e:
+    st.error(f"Error al cargar el Excel: {e}")
+    st.info("Asegúrate de que el archivo se llame 'datos.xlsx' y esté en GitHub.")
